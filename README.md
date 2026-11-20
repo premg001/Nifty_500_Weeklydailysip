@@ -19,7 +19,7 @@ and Smallcap 250 constituent lists. Run `python scanner.py` to refresh prices an
 ## Deploy
 1. Push this folder to a GitHub repo.
 2. share.streamlit.io -> new app -> main file `app.py`.
-3. GitHub Actions (`.github/workflows/eod.yml`) runs Mon-Fri 5:00 PM IST and commits `data/`.
+3. GitHub Actions (`.github/workflows/eod.yml`) runs weekdays at 5:00 PM IST and commits `data/`.
 4. Optional Telegram alerts: add repo secrets `TELEGRAM_TOKEN` and `TELEGRAM_CHAT_ID`.
 5. First run: Actions tab -> "EOD scan" -> Run workflow.
 
