@@ -1,22 +1,22 @@
 {
- "as_of": "2026-11-23",
+ "as_of": "2026-11-25",
  "signals": [
   "APLAPOLLO",
-  "COCHINSHIP",
-  "HFCL",
-  "RITES",
-  "SHRIPISTON",
+  "BERGEPAINT",
+  "LLOYDSME",
+  "NATIONALUM",
+  "OFSS",
+  "PCBL",
   "TATAPOWER",
-  "TATASTEEL",
-  "TEGA"
+  "TATASTEEL"
  ],
  "stocks": [
   {
    "symbol": "360ONE",
-   "close": 1201.15,
-   "last_date": "2026-11-23",
+   "close": 1165.2,
+   "last_date": "2026-11-25",
    "next_level": 965.7,
-   "dist_pct": 19.6,
+   "dist_pct": 17.12,
    "levels_below": [
     965.7,
     906.05,
@@ -31,10 +31,10 @@
   },
   {
    "symbol": "ABB",
-   "close": 6868.5,
-   "last_date": "2026-11-23",
+   "close": 7028.5,
+   "last_date": "2026-11-25",
    "next_level": 6064.0,
-   "dist_pct": 11.71,
+   "dist_pct": 13.72,
    "levels_below": [
     6064.0,
     5911.0,
@@ -49,10 +49,10 @@
   },
   {
    "symbol": "ACC",
-   "close": 1255.8,
-   "last_date": "2026-11-23",
+   "close": 1262.3,
+   "last_date": "2026-11-25",
    "next_level": 1115.0,
-   "dist_pct": 11.21,
+   "dist_pct": 11.67,
    "levels_below": [
     1115.0
    ],
@@ -63,10 +63,10 @@
   },
   {
    "symbol": "ACMESOLAR",
-   "close": 411.6,
-   "last_date": "2026-11-23",
+   "close": 416.7,
+   "last_date": "2026-11-25",
    "next_level": 366.3,
-   "dist_pct": 11.01,
+   "dist_pct": 12.1,
    "levels_below": [
     366.3,
     361.8,
@@ -81,10 +81,10 @@
   },
   {
    "symbol": "AIAENG",
-   "close": 3388.2,
-   "last_date": "2026-11-23",
+   "close": 3387.5,
+   "last_date": "2026-11-25",
    "next_level": 3001.1,
-   "dist_pct": 11.42,
+   "dist_pct": 11.41,
    "levels_below": [
     3001.1,
     2620.0,
@@ -99,28 +99,28 @@
   },
   {
    "symbol": "APLAPOLLO",
-   "close": 1670.0,
-   "last_date": "2026-11-23",
-   "next_level": 1492.0,
-   "dist_pct": 10.66,
+   "close": 1476.0,
+   "last_date": "2026-11-25",
+   "next_level": 1272.7,
+   "dist_pct": 13.77,
    "levels_below": [
-    1492.0,
-    1399.95,
-    1365.0,
     1272.7,
-    1047.0
+    1047.0,
+    1018.65,
+    987.95,
+    941.0
    ],
    "levels_above": [],
-   "buys": 17,
-   "invalid": 4,
+   "buys": 18,
+   "invalid": 6,
    "signal_today": true
   },
   {
    "symbol": "AUBANK",
-   "close": 983.5,
-   "last_date": "2026-11-23",
+   "close": 1006.05,
+   "last_date": "2026-11-25",
    "next_level": 845.1,
-   "dist_pct": 14.07,
+   "dist_pct": 16.0,
    "levels_below": [
     845.1,
     831.65,
@@ -135,10 +135,10 @@
   },
   {
    "symbol": "AWL",
-   "close": 167.8,
-   "last_date": "2026-11-23",
+   "close": 165.85,
+   "last_date": "2026-11-25",
    "next_level": 159.65,
-   "dist_pct": 4.86,
+   "dist_pct": 3.74,
    "levels_below": [
     159.65
    ],
@@ -149,10 +149,10 @@
   },
   {
    "symbol": "AADHARHFC",
-   "close": 415.2,
-   "last_date": "2026-11-23",
+   "close": 425.0,
+   "last_date": "2026-11-25",
    "next_level": 399.35,
-   "dist_pct": 3.82,
+   "dist_pct": 6.04,
    "levels_below": [
     399.35,
     361.6,
@@ -166,10 +166,10 @@
   },
   {
    "symbol": "AARTIIND",
-   "close": 449.35,
-   "last_date": "2026-11-23",
+   "close": 435.15,
+   "last_date": "2026-11-25",
    "next_level": 419.0,
-   "dist_pct": 6.75,
+   "dist_pct": 3.71,
    "levels_below": [
     419.0,
     394.6,
@@ -182,10 +182,10 @@
   },
   {
    "symbol": "AAVAS",
-   "close": 1091.2,
-   "last_date": "2026-11-23",
+   "close": 1081.2,
+   "last_date": "2026-11-25",
    "next_level": 1055.3,
-   "dist_pct": 3.29,
+   "dist_pct": 2.4,
    "levels_below": [
     1055.3
    ],
@@ -196,10 +196,10 @@
   },
   {
    "symbol": "ABBOTINDIA",
-   "close": 26125.0,
-   "last_date": "2026-11-23",
+   "close": 26765.0,
+   "last_date": "2026-11-25",
    "next_level": 24650.0,
-   "dist_pct": 5.65,
+   "dist_pct": 7.9,
    "levels_below": [
     24650.0,
     22000.0,
@@ -214,10 +214,10 @@
   },
   {
    "symbol": "ACE",
-   "close": 1187.45,
-   "last_date": "2026-11-23",
+   "close": 1190.35,
+   "last_date": "2026-11-25",
    "next_level": 979.2,
-   "dist_pct": 17.54,
+   "dist_pct": 17.74,
    "levels_below": [
     979.2,
     957.8,
@@ -232,10 +232,10 @@
   },
   {
    "symbol": "ACUTAAS",
-   "close": 3875.0,
-   "last_date": "2026-11-23",
+   "close": 3993.0,
+   "last_date": "2026-11-25",
    "next_level": 3031.1,
-   "dist_pct": 21.78,
+   "dist_pct": 24.09,
    "levels_below": [
     3031.1,
     3025.0,
@@ -250,10 +250,10 @@
   },
   {
    "symbol": "ADANIENSOL",
-   "close": 1470.0,
-   "last_date": "2026-11-23",
+   "close": 1408.0,
+   "last_date": "2026-11-25",
    "next_level": 1200.0,
-   "dist_pct": 18.37,
+   "dist_pct": 14.77,
    "levels_below": [
     1200.0,
     903.15,
@@ -268,10 +268,10 @@
   },
   {
    "symbol": "ADANIENT",
-   "close": 2677.9,
-   "last_date": "2026-11-23",
+   "close": 2668.5,
+   "last_date": "2026-11-25",
    "next_level": 2430.7,
-   "dist_pct": 9.23,
+   "dist_pct": 8.91,
    "levels_below": [
     2430.7,
     1753.0,
@@ -286,10 +286,10 @@
   },
   {
    "symbol": "ADANIGREEN",
-   "close": 1391.0,
-   "last_date": "2026-11-23",
+   "close": 1364.5,
+   "last_date": "2026-11-25",
    "next_level": 1171.0,
-   "dist_pct": 15.82,
+   "dist_pct": 14.18,
    "levels_below": [
     1171.0,
     801.4,
@@ -304,10 +304,10 @@
   },
   {
    "symbol": "ADANIPORTS",
-   "close": 1919.0,
-   "last_date": "2026-11-23",
+   "close": 1926.3,
+   "last_date": "2026-11-25",
    "next_level": 1674.2,
-   "dist_pct": 12.76,
+   "dist_pct": 13.09,
    "levels_below": [
     1674.2,
     1593.1,
@@ -322,10 +322,10 @@
   },
   {
    "symbol": "ADANIPOWER",
-   "close": 207.9,
-   "last_date": "2026-11-23",
+   "close": 206.0,
+   "last_date": "2026-11-25",
    "next_level": 175.31,
-   "dist_pct": 15.68,
+   "dist_pct": 14.9,
    "levels_below": [
     175.31,
     130.7,
@@ -340,10 +340,10 @@
   },
   {
    "symbol": "ATGL",
-   "close": 550.45,
-   "last_date": "2026-11-23",
+   "close": 546.8,
+   "last_date": "2026-11-25",
    "next_level": 519.05,
-   "dist_pct": 5.7,
+   "dist_pct": 5.07,
    "levels_below": [
     519.05,
     462.8
@@ -355,10 +355,10 @@
   },
   {
    "symbol": "ABCAPITAL",
-   "close": 415.8,
-   "last_date": "2026-11-23",
+   "close": 422.0,
+   "last_date": "2026-11-25",
    "next_level": 334.45,
-   "dist_pct": 19.56,
+   "dist_pct": 20.75,
    "levels_below": [
     334.45,
     287.7,
@@ -373,10 +373,10 @@
   },
   {
    "symbol": "ABREL",
-   "close": 1257.0,
-   "last_date": "2026-11-23",
+   "close": 1282.9,
+   "last_date": "2026-11-25",
    "next_level": 995.0,
-   "dist_pct": 20.84,
+   "dist_pct": 22.44,
    "levels_below": [
     995.0,
     963.35,
@@ -391,10 +391,10 @@
   },
   {
    "symbol": "ABSLAMC",
-   "close": 928.85,
-   "last_date": "2026-11-23",
+   "close": 958.7,
+   "last_date": "2026-11-25",
    "next_level": 800.5,
-   "dist_pct": 13.82,
+   "dist_pct": 16.5,
    "levels_below": [
     800.5,
     739.6,
@@ -409,10 +409,10 @@
   },
   {
    "symbol": "CPPLUS",
-   "close": 4074.1,
-   "last_date": "2026-11-23",
+   "close": 4204.7,
+   "last_date": "2026-11-25",
    "next_level": 3619.3,
-   "dist_pct": 11.16,
+   "dist_pct": 13.92,
    "levels_below": [
     3619.3,
     3321.0,
@@ -427,10 +427,10 @@
   },
   {
    "symbol": "AEGISLOG",
-   "close": 1158.6,
-   "last_date": "2026-11-23",
+   "close": 1188.4,
+   "last_date": "2026-11-25",
    "next_level": 1080.2,
-   "dist_pct": 6.77,
+   "dist_pct": 9.1,
    "levels_below": [
     1080.2,
     646.05,
@@ -445,10 +445,10 @@
   },
   {
    "symbol": "AEGISVOPAK",
-   "close": 280.9,
-   "last_date": "2026-11-23",
+   "close": 278.13,
+   "last_date": "2026-11-25",
    "next_level": 218.35,
-   "dist_pct": 22.27,
+   "dist_pct": 21.49,
    "levels_below": [
     218.35,
     182.5,
@@ -461,10 +461,10 @@
   },
   {
    "symbol": "AETHER",
-   "close": 1596.9,
-   "last_date": "2026-11-23",
+   "close": 1676.5,
+   "last_date": "2026-11-25",
    "next_level": 1376.0,
-   "dist_pct": 13.83,
+   "dist_pct": 17.92,
    "levels_below": [
     1376.0,
     1023.7,
@@ -479,10 +479,10 @@
   },
   {
    "symbol": "AFCONS",
-   "close": 220.22,
-   "last_date": "2026-11-23",
+   "close": 220.83,
+   "last_date": "2026-11-25",
    "next_level": 203.6,
-   "dist_pct": 7.55,
+   "dist_pct": 7.8,
    "levels_below": [
     203.6
    ],
@@ -493,10 +493,10 @@
   },
   {
    "symbol": "AFFLE",
-   "close": 1616.6,
-   "last_date": "2026-11-23",
+   "close": 1636.7,
+   "last_date": "2026-11-25",
    "next_level": 1283.0,
-   "dist_pct": 20.64,
+   "dist_pct": 21.61,
    "levels_below": [
     1283.0,
     1251.3,
@@ -511,10 +511,10 @@
   },
   {
    "symbol": "AJANTPHARM",
-   "close": 3310.4,
-   "last_date": "2026-11-23",
+   "close": 3373.0,
+   "last_date": "2026-11-25",
    "next_level": 3199.9,
-   "dist_pct": 3.34,
+   "dist_pct": 5.13,
    "levels_below": [
     3199.9,
     2850.0,
@@ -529,10 +529,10 @@
   },
   {
    "symbol": "ALKEM",
-   "close": 5067.0,
-   "last_date": "2026-11-23",
+   "close": 5139.0,
+   "last_date": "2026-11-25",
    "next_level": 4811.0,
-   "dist_pct": 5.05,
+   "dist_pct": 6.38,
    "levels_below": [
     4811.0,
     4738.5,
@@ -547,10 +547,10 @@
   },
   {
    "symbol": "ABDL",
-   "close": 802.85,
-   "last_date": "2026-11-23",
+   "close": 807.2,
+   "last_date": "2026-11-25",
    "next_level": 654.0,
-   "dist_pct": 18.54,
+   "dist_pct": 18.98,
    "levels_below": [
     654.0,
     586.55,
@@ -565,10 +565,10 @@
   },
   {
    "symbol": "ARE&M",
-   "close": 729.8,
-   "last_date": "2026-11-23",
+   "close": 736.85,
+   "last_date": "2026-11-25",
    "next_level": 678.0,
-   "dist_pct": 7.1,
+   "dist_pct": 7.99,
    "levels_below": [
     678.0,
     670.0,
@@ -583,10 +583,10 @@
   },
   {
    "symbol": "AMBER",
-   "close": 6850.0,
-   "last_date": "2026-11-23",
+   "close": 6940.0,
+   "last_date": "2026-11-25",
    "next_level": 5855.5,
-   "dist_pct": 14.52,
+   "dist_pct": 15.63,
    "levels_below": [
     5855.5,
     5400.5,
@@ -601,10 +601,10 @@
   },
   {
    "symbol": "AMBUJACEM",
-   "close": 391.95,
-   "last_date": "2026-11-23",
+   "close": 392.0,
+   "last_date": "2026-11-25",
    "next_level": 341.0,
-   "dist_pct": 13.0,
+   "dist_pct": 13.01,
    "levels_below": [
     341.0,
     324.3,
@@ -619,10 +619,10 @@
   },
   {
    "symbol": "ANANDRATHI",
-   "close": 2355.9,
-   "last_date": "2026-11-23",
+   "close": 2380.0,
+   "last_date": "2026-11-25",
    "next_level": 2015.9,
-   "dist_pct": 14.43,
+   "dist_pct": 15.3,
    "levels_below": [
     2015.9,
     2007.0,
@@ -637,10 +637,10 @@
   },
   {
    "symbol": "ANANTRAJ",
-   "close": 441.95,
-   "last_date": "2026-11-23",
+   "close": 444.35,
+   "last_date": "2026-11-25",
    "next_level": 438.45,
-   "dist_pct": 0.79,
+   "dist_pct": 1.33,
    "levels_below": [
     438.45,
     403.0,
@@ -655,10 +655,10 @@
   },
   {
    "symbol": "ANGELONE",
-   "close": 337.0,
-   "last_date": "2026-11-23",
+   "close": 349.15,
+   "last_date": "2026-11-25",
    "next_level": 273.8,
-   "dist_pct": 18.75,
+   "dist_pct": 21.58,
    "levels_below": [
     273.8,
     267.8,
@@ -673,10 +673,10 @@
   },
   {
    "symbol": "ANTHEM",
-   "close": 957.35,
-   "last_date": "2026-11-23",
+   "close": 968.2,
+   "last_date": "2026-11-25",
    "next_level": 783.35,
-   "dist_pct": 18.18,
+   "dist_pct": 19.09,
    "levels_below": [
     783.35,
     732.0,
@@ -690,10 +690,10 @@
   },
   {
    "symbol": "ANURAS",
-   "close": 1313.6,
-   "last_date": "2026-11-23",
+   "close": 1316.6,
+   "last_date": "2026-11-25",
    "next_level": 1067.8,
-   "dist_pct": 18.71,
+   "dist_pct": 18.9,
    "levels_below": [
     1067.8,
     1047.9,
@@ -708,10 +708,10 @@
   },
   {
    "symbol": "APARINDS",
-   "close": 14184.0,
-   "last_date": "2026-11-23",
+   "close": 14250.0,
+   "last_date": "2026-11-25",
    "next_level": 13780.0,
-   "dist_pct": 2.85,
+   "dist_pct": 3.3,
    "levels_below": [
     13780.0,
     13282.0,
@@ -726,10 +726,10 @@
   },
   {
    "symbol": "APOLLOHOSP",
-   "close": 9257.0,
-   "last_date": "2026-11-23",
+   "close": 9300.0,
+   "last_date": "2026-11-25",
    "next_level": 7465.0,
-   "dist_pct": 19.36,
+   "dist_pct": 19.73,
    "levels_below": [
     7465.0,
     7080.0,
@@ -744,10 +744,10 @@
   },
   {
    "symbol": "APOLLOTYRE",
-   "close": 420.7,
-   "last_date": "2026-11-23",
+   "close": 437.35,
+   "last_date": "2026-11-25",
    "next_level": 375.0,
-   "dist_pct": 10.86,
+   "dist_pct": 14.26,
    "levels_below": [
     375.0,
     365.3,
@@ -762,8 +762,8 @@
   },
   {
    "symbol": "APTUS",
-   "close": 191.33,
-   "last_date": "2026-11-23",
+   "close": 188.16,
+   "last_date": "2026-11-25",
    "next_level": null,
    "dist_pct": null,
    "levels_below": [],
@@ -774,10 +774,10 @@
   },
   {
    "symbol": "ASAHIINDIA",
-   "close": 1178.45,
-   "last_date": "2026-11-23",
+   "close": 1195.3,
+   "last_date": "2026-11-25",
    "next_level": 871.65,
-   "dist_pct": 26.03,
+   "dist_pct": 27.08,
    "levels_below": [
     871.65,
     862.5,
@@ -791,11 +791,29 @@
    "signal_today": false
   },
   {
+   "symbol": "ASHOKLEY",
+   "close": 158.0,
+   "last_date": "2026-11-25",
+   "next_level": 140.01,
+   "dist_pct": 11.39,
+   "levels_below": [
+    140.01,
+    138.03,
+    134.21,
+    114.96,
+    108.1
+   ],
+   "levels_above": [],
+   "buys": 11,
+   "invalid": 3,
+   "signal_today": false
+  },
+  {
    "symbol": "ASIANPAINT",
-   "close": 2580.4,
-   "last_date": "2026-11-23",
+   "close": 2621.2,
+   "last_date": "2026-11-25",
    "next_level": 2217.1,
-   "dist_pct": 14.08,
+   "dist_pct": 15.42,
    "levels_below": [
     2217.1,
     2115.0
@@ -807,10 +825,10 @@
   },
   {
    "symbol": "ASTERDM",
-   "close": 790.35,
-   "last_date": "2026-11-23",
+   "close": 774.7,
+   "last_date": "2026-11-25",
    "next_level": 638.0,
-   "dist_pct": 19.28,
+   "dist_pct": 17.65,
    "levels_below": [
     638.0,
     603.8,
@@ -825,10 +843,10 @@
   },
   {
    "symbol": "ASTRAL",
-   "close": 1225.0,
-   "last_date": "2026-11-23",
+   "close": 1246.2,
+   "last_date": "2026-11-25",
    "next_level": 1215.5,
-   "dist_pct": 0.78,
+   "dist_pct": 2.46,
    "levels_below": [
     1215.5,
     1186.16
@@ -840,10 +858,10 @@
   },
   {
    "symbol": "ATHERENERG",
-   "close": 1979.2,
-   "last_date": "2026-11-23",
+   "close": 1871.9,
+   "last_date": "2026-11-25",
    "next_level": 1345.7,
-   "dist_pct": 32.01,
+   "dist_pct": 28.11,
    "levels_below": [
     1345.7,
     873.6,
@@ -858,10 +876,10 @@
   },
   {
    "symbol": "ATUL",
-   "close": 5034.5,
-   "last_date": "2026-11-23",
+   "close": 5087.0,
+   "last_date": "2026-11-25",
    "next_level": 4752.0,
-   "dist_pct": 5.61,
+   "dist_pct": 6.59,
    "levels_below": [
     4752.0
    ],
@@ -872,10 +890,10 @@
   },
   {
    "symbol": "AUROPHARMA",
-   "close": 1796.5,
-   "last_date": "2026-11-23",
+   "close": 1843.0,
+   "last_date": "2026-11-25",
    "next_level": 1547.7,
-   "dist_pct": 13.85,
+   "dist_pct": 16.02,
    "levels_below": [
     1547.7,
     1512.0,
@@ -890,10 +908,10 @@
   },
   {
    "symbol": "AIIL",
-   "close": 546.35,
-   "last_date": "2026-11-23",
+   "close": 553.2,
+   "last_date": "2026-11-25",
    "next_level": 476.0,
-   "dist_pct": 12.88,
+   "dist_pct": 13.96,
    "levels_below": [
     476.0,
     441.0,
@@ -908,10 +926,10 @@
   },
   {
    "symbol": "AVANTIFEED",
-   "close": 700.35,
-   "last_date": "2026-11-23",
+   "close": 697.5,
+   "last_date": "2026-11-25",
    "next_level": 655.3,
-   "dist_pct": 6.43,
+   "dist_pct": 6.05,
    "levels_below": [
     655.3,
     631.65,
@@ -926,10 +944,10 @@
   },
   {
    "symbol": "DMART",
-   "close": 3405.4,
-   "last_date": "2026-11-23",
+   "close": 3592.0,
+   "last_date": "2026-11-25",
    "next_level": 3102.3,
-   "dist_pct": 8.9,
+   "dist_pct": 13.63,
    "levels_below": [
     3102.3
    ],
@@ -940,10 +958,10 @@
   },
   {
    "symbol": "AXISBANK",
-   "close": 1388.6,
-   "last_date": "2026-11-23",
+   "close": 1418.1,
+   "last_date": "2026-11-25",
    "next_level": 1196.9,
-   "dist_pct": 13.81,
+   "dist_pct": 15.6,
    "levels_below": [
     1196.9,
     1175.0,
@@ -958,10 +976,10 @@
   },
   {
    "symbol": "AZAD",
-   "close": 2289.7,
-   "last_date": "2026-11-23",
+   "close": 2355.7,
+   "last_date": "2026-11-25",
    "next_level": 2250.0,
-   "dist_pct": 1.73,
+   "dist_pct": 4.49,
    "levels_below": [
     2250.0,
     1959.0,
@@ -976,10 +994,10 @@
   },
   {
    "symbol": "BEML",
-   "close": 2008.1,
-   "last_date": "2026-11-23",
+   "close": 2041.2,
+   "last_date": "2026-11-25",
    "next_level": 1806.0,
-   "dist_pct": 10.06,
+   "dist_pct": 11.52,
    "levels_below": [
     1806.0,
     1668.1,
@@ -994,10 +1012,10 @@
   },
   {
    "symbol": "BLS",
-   "close": 220.44,
-   "last_date": "2026-11-23",
+   "close": 215.21,
+   "last_date": "2026-11-25",
    "next_level": 203.15,
-   "dist_pct": 7.84,
+   "dist_pct": 5.6,
    "levels_below": [
     203.15,
     166.3,
@@ -1012,10 +1030,10 @@
   },
   {
    "symbol": "BSE",
-   "close": 3757.0,
-   "last_date": "2026-11-23",
+   "close": 3775.2,
+   "last_date": "2026-11-25",
    "next_level": 3000.0,
-   "dist_pct": 20.15,
+   "dist_pct": 20.53,
    "levels_below": [
     3000.0,
     2676.6,
@@ -1030,10 +1048,10 @@
   },
   {
    "symbol": "BAJAJ-AUTO",
-   "close": 10643.0,
-   "last_date": "2026-11-23",
+   "close": 10868.0,
+   "last_date": "2026-11-25",
    "next_level": 9637.0,
-   "dist_pct": 9.45,
+   "dist_pct": 11.33,
    "levels_below": [
     9637.0,
     9501.0,
@@ -1048,10 +1066,10 @@
   },
   {
    "symbol": "BAJFINANCE",
-   "close": 1095.5,
-   "last_date": "2026-11-23",
+   "close": 1131.35,
+   "last_date": "2026-11-25",
    "next_level": 899.15,
-   "dist_pct": 17.92,
+   "dist_pct": 20.52,
    "levels_below": [
     899.15,
     860.45,
@@ -1066,10 +1084,10 @@
   },
   {
    "symbol": "BAJAJFINSV",
-   "close": 1880.1,
-   "last_date": "2026-11-23",
+   "close": 1925.0,
+   "last_date": "2026-11-25",
    "next_level": 1624.8,
-   "dist_pct": 13.58,
+   "dist_pct": 15.59,
    "levels_below": [
     1624.8,
     1597.0,
@@ -1084,10 +1102,10 @@
   },
   {
    "symbol": "BAJAJHLDNG",
-   "close": 11541.0,
-   "last_date": "2026-11-23",
+   "close": 11426.0,
+   "last_date": "2026-11-25",
    "next_level": 10031.0,
-   "dist_pct": 13.08,
+   "dist_pct": 12.21,
    "levels_below": [
     10031.0,
     9816.0,
@@ -1102,10 +1120,10 @@
   },
   {
    "symbol": "BAJAJHFL",
-   "close": 80.32,
-   "last_date": "2026-11-23",
+   "close": 80.17,
+   "last_date": "2026-11-25",
    "next_level": 76.0,
-   "dist_pct": 5.38,
+   "dist_pct": 5.2,
    "levels_below": [
     76.0,
     72.65
@@ -1117,10 +1135,10 @@
   },
   {
    "symbol": "BALKRISIND",
-   "close": 2345.3,
-   "last_date": "2026-11-23",
+   "close": 2357.0,
+   "last_date": "2026-11-25",
    "next_level": 1964.7,
-   "dist_pct": 16.23,
+   "dist_pct": 16.64,
    "levels_below": [
     1964.7,
     1908.9,
@@ -1134,10 +1152,10 @@
   },
   {
    "symbol": "BALRAMCHIN",
-   "close": 619.25,
-   "last_date": "2026-11-23",
+   "close": 611.8,
+   "last_date": "2026-11-25",
    "next_level": 580.7,
-   "dist_pct": 6.23,
+   "dist_pct": 5.08,
    "levels_below": [
     580.7,
     523.0,
@@ -1152,10 +1170,10 @@
   },
   {
    "symbol": "BANDHANBNK",
-   "close": 172.4,
-   "last_date": "2026-11-23",
+   "close": 171.69,
+   "last_date": "2026-11-25",
    "next_level": 143.69,
-   "dist_pct": 16.65,
+   "dist_pct": 16.31,
    "levels_below": [
     143.69,
     140.7,
@@ -1170,10 +1188,10 @@
   },
   {
    "symbol": "BANKBARODA",
-   "close": 275.58,
-   "last_date": "2026-11-23",
+   "close": 276.43,
+   "last_date": "2026-11-25",
    "next_level": 223.82,
-   "dist_pct": 18.78,
+   "dist_pct": 19.03,
    "levels_below": [
     223.82,
     212.55,
@@ -1188,10 +1206,10 @@
   },
   {
    "symbol": "BANKINDIA",
-   "close": 159.01,
-   "last_date": "2026-11-23",
+   "close": 159.89,
+   "last_date": "2026-11-25",
    "next_level": 123.64,
-   "dist_pct": 22.24,
+   "dist_pct": 22.67,
    "levels_below": [
     123.64,
     109.85,
@@ -1206,10 +1224,10 @@
   },
   {
    "symbol": "MAHABANK",
-   "close": 97.56,
-   "last_date": "2026-11-23",
+   "close": 98.71,
+   "last_date": "2026-11-25",
    "next_level": 72.77,
-   "dist_pct": 25.41,
+   "dist_pct": 26.28,
    "levels_below": [
     72.77,
     61.03,
@@ -1224,10 +1242,10 @@
   },
   {
    "symbol": "BATAINDIA",
-   "close": 626.7,
-   "last_date": "2026-11-23",
+   "close": 631.5,
+   "last_date": "2026-11-25",
    "next_level": 599.6,
-   "dist_pct": 4.32,
+   "dist_pct": 5.05,
    "levels_below": [
     599.6
    ],
@@ -1238,10 +1256,10 @@
   },
   {
    "symbol": "BELRISE",
-   "close": 238.05,
-   "last_date": "2026-11-23",
+   "close": 241.68,
+   "last_date": "2026-11-25",
    "next_level": 194.19,
-   "dist_pct": 18.42,
+   "dist_pct": 19.65,
    "levels_below": [
     194.19,
     173.51,
@@ -1256,26 +1274,25 @@
   },
   {
    "symbol": "BERGEPAINT",
-   "close": 462.25,
-   "last_date": "2026-11-23",
-   "next_level": 458.0,
-   "dist_pct": 0.92,
+   "close": 460.95,
+   "last_date": "2026-11-25",
+   "next_level": 441.1,
+   "dist_pct": 4.31,
    "levels_below": [
-    458.0,
     441.1,
     391.1
    ],
    "levels_above": [],
-   "buys": 17,
+   "buys": 18,
    "invalid": 5,
-   "signal_today": false
+   "signal_today": true
   },
   {
    "symbol": "BHARATCOAL",
-   "close": 30.02,
-   "last_date": "2026-11-23",
+   "close": 30.1,
+   "last_date": "2026-11-25",
    "next_level": 28.92,
-   "dist_pct": 3.66,
+   "dist_pct": 3.92,
    "levels_below": [
     28.92
    ],
@@ -1286,10 +1303,10 @@
   },
   {
    "symbol": "BDL",
-   "close": 1020.0,
-   "last_date": "2026-11-23",
+   "close": 1027.65,
+   "last_date": "2026-11-25",
    "next_level": 974.0,
-   "dist_pct": 4.51,
+   "dist_pct": 5.22,
    "levels_below": [
     974.0,
     907.0,
@@ -1304,10 +1321,10 @@
   },
   {
    "symbol": "BEL",
-   "close": 395.8,
-   "last_date": "2026-11-23",
+   "close": 404.3,
+   "last_date": "2026-11-25",
    "next_level": 354.55,
-   "dist_pct": 10.42,
+   "dist_pct": 12.31,
    "levels_below": [
     354.55,
     256.2,
@@ -1322,10 +1339,10 @@
   },
   {
    "symbol": "BHARATFORG",
-   "close": 1722.0,
-   "last_date": "2026-11-23",
+   "close": 1735.6,
+   "last_date": "2026-11-25",
    "next_level": 1680.1,
-   "dist_pct": 2.43,
+   "dist_pct": 3.2,
    "levels_below": [
     1680.1,
     1610.2,
@@ -1340,10 +1357,10 @@
   },
   {
    "symbol": "BHEL",
-   "close": 415.7,
-   "last_date": "2026-11-23",
+   "close": 413.5,
+   "last_date": "2026-11-25",
    "next_level": 377.7,
-   "dist_pct": 9.14,
+   "dist_pct": 8.66,
    "levels_below": [
     377.7,
     371.8,
@@ -1358,10 +1375,10 @@
   },
   {
    "symbol": "BPCL",
-   "close": 305.35,
-   "last_date": "2026-11-23",
+   "close": 309.95,
+   "last_date": "2026-11-25",
    "next_level": 275.4,
-   "dist_pct": 9.81,
+   "dist_pct": 11.15,
    "levels_below": [
     275.4,
     266.6,
@@ -1376,10 +1393,10 @@
   },
   {
    "symbol": "BHARTIARTL",
-   "close": 2128.5,
-   "last_date": "2026-11-23",
+   "close": 2117.5,
+   "last_date": "2026-11-25",
    "next_level": 1726.3,
-   "dist_pct": 18.9,
+   "dist_pct": 18.47,
    "levels_below": [
     1726.3,
     1559.5,
@@ -1394,10 +1411,10 @@
   },
   {
    "symbol": "BHARTIHEXA",
-   "close": 1599.1,
-   "last_date": "2026-11-23",
+   "close": 1578.0,
+   "last_date": "2026-11-25",
    "next_level": 1359.2,
-   "dist_pct": 15.0,
+   "dist_pct": 13.87,
    "levels_below": [
     1359.2,
     1260.0,
@@ -1412,10 +1429,10 @@
   },
   {
    "symbol": "GROWW",
-   "close": 216.46,
-   "last_date": "2026-11-23",
+   "close": 217.48,
+   "last_date": "2026-11-25",
    "next_level": 177.5,
-   "dist_pct": 18.0,
+   "dist_pct": 18.38,
    "levels_below": [
     177.5,
     149.05,
@@ -1429,10 +1446,10 @@
   },
   {
    "symbol": "BIOCON",
-   "close": 356.7,
-   "last_date": "2026-11-23",
+   "close": 365.35,
+   "last_date": "2026-11-25",
    "next_level": 318.4,
-   "dist_pct": 10.74,
+   "dist_pct": 12.85,
    "levels_below": [
     318.4,
     299.0,
@@ -1447,10 +1464,10 @@
   },
   {
    "symbol": "BSOFT",
-   "close": 304.7,
-   "last_date": "2026-11-23",
+   "close": 299.25,
+   "last_date": "2026-11-25",
    "next_level": 267.05,
-   "dist_pct": 12.36,
+   "dist_pct": 10.76,
    "levels_below": [
     267.05,
     251.9,
@@ -1464,10 +1481,10 @@
   },
   {
    "symbol": "BBOX",
-   "close": 854.05,
-   "last_date": "2026-11-23",
+   "close": 857.3,
+   "last_date": "2026-11-25",
    "next_level": 769.55,
-   "dist_pct": 9.89,
+   "dist_pct": 10.24,
    "levels_below": [
     769.55,
     709.15,
@@ -1482,10 +1499,10 @@
   },
   {
    "symbol": "BLUESTARCO",
-   "close": 1785.1,
-   "last_date": "2026-11-23",
+   "close": 1821.5,
+   "last_date": "2026-11-25",
    "next_level": 1480.1,
-   "dist_pct": 17.09,
+   "dist_pct": 18.74,
    "levels_below": [
     1480.1,
     1444.0,
@@ -1500,10 +1517,10 @@
   },
   {
    "symbol": "BOSCHLTD",
-   "close": 48800.0,
-   "last_date": "2026-11-23",
+   "close": 49130.0,
+   "last_date": "2026-11-25",
    "next_level": 42675.0,
-   "dist_pct": 12.55,
+   "dist_pct": 13.14,
    "levels_below": [
     42675.0,
     39705.0,
@@ -1518,10 +1535,10 @@
   },
   {
    "symbol": "FIRSTCRY",
-   "close": 168.71,
-   "last_date": "2026-11-23",
+   "close": 165.14,
+   "last_date": "2026-11-25",
    "next_level": 156.4,
-   "dist_pct": 7.3,
+   "dist_pct": 5.29,
    "levels_below": [
     156.4
    ],
@@ -1532,10 +1549,10 @@
   },
   {
    "symbol": "BRIGADE",
-   "close": 581.65,
-   "last_date": "2026-11-23",
+   "close": 589.7,
+   "last_date": "2026-11-25",
    "next_level": 515.05,
-   "dist_pct": 11.45,
+   "dist_pct": 12.66,
    "levels_below": [
     515.05,
     493.05,
@@ -1550,10 +1567,10 @@
   },
   {
    "symbol": "BRITANNIA",
-   "close": 4830.7,
-   "last_date": "2026-11-23",
+   "close": 5076.2,
+   "last_date": "2026-11-25",
    "next_level": 4499.9,
-   "dist_pct": 6.85,
+   "dist_pct": 11.35,
    "levels_below": [
     4499.9,
     4347.7,
@@ -1568,10 +1585,10 @@
   },
   {
    "symbol": "BIRET",
-   "close": 319.93,
-   "last_date": "2026-11-23",
+   "close": 319.67,
+   "last_date": "2026-11-25",
    "next_level": 300.0,
-   "dist_pct": 6.23,
+   "dist_pct": 6.15,
    "levels_below": [
     300.0,
     280.05,
@@ -1586,10 +1603,10 @@
   },
   {
    "symbol": "CCL",
-   "close": 937.55,
-   "last_date": "2026-11-23",
+   "close": 938.15,
+   "last_date": "2026-11-25",
    "next_level": 885.7,
-   "dist_pct": 5.53,
+   "dist_pct": 5.59,
    "levels_below": [
     885.7,
     815.5,
@@ -1604,10 +1621,10 @@
   },
   {
    "symbol": "CESC",
-   "close": 125.93,
-   "last_date": "2026-11-23",
+   "close": 125.88,
+   "last_date": "2026-11-25",
    "next_level": 122.15,
-   "dist_pct": 3.0,
+   "dist_pct": 2.96,
    "levels_below": [
     122.15,
     119.0,
@@ -1622,10 +1639,10 @@
   },
   {
    "symbol": "CGPOWER",
-   "close": 790.6,
-   "last_date": "2026-11-23",
+   "close": 778.9,
+   "last_date": "2026-11-25",
    "next_level": 733.75,
-   "dist_pct": 7.19,
+   "dist_pct": 5.8,
    "levels_below": [
     733.75,
     642.8,
@@ -1640,10 +1657,10 @@
   },
   {
    "symbol": "CIEINDIA",
-   "close": 366.85,
-   "last_date": "2026-11-23",
+   "close": 370.8,
+   "last_date": "2026-11-25",
    "next_level": 341.0,
-   "dist_pct": 7.05,
+   "dist_pct": 8.04,
    "levels_below": [
     341.0,
     331.65,
@@ -1658,10 +1675,10 @@
   },
   {
    "symbol": "CRISIL",
-   "close": 4034.8,
-   "last_date": "2026-11-23",
+   "close": 3992.8,
+   "last_date": "2026-11-25",
    "next_level": 3855.0,
-   "dist_pct": 4.46,
+   "dist_pct": 3.45,
    "levels_below": [
     3855.0,
     3775.0,
@@ -1676,10 +1693,10 @@
   },
   {
    "symbol": "CANFINHOME",
-   "close": 796.4,
-   "last_date": "2026-11-23",
+   "close": 770.6,
+   "last_date": "2026-11-25",
    "next_level": 693.0,
-   "dist_pct": 12.98,
+   "dist_pct": 10.07,
    "levels_below": [
     693.0,
     691.55,
@@ -1694,10 +1711,10 @@
   },
   {
    "symbol": "CANBK",
-   "close": 133.75,
-   "last_date": "2026-11-23",
+   "close": 133.46,
+   "last_date": "2026-11-25",
    "next_level": 114.63,
-   "dist_pct": 14.3,
+   "dist_pct": 14.11,
    "levels_below": [
     114.63,
     103.55,
@@ -1712,10 +1729,10 @@
   },
   {
    "symbol": "CANHLIFE",
-   "close": 124.52,
-   "last_date": "2026-11-23",
+   "close": 132.96,
+   "last_date": "2026-11-25",
    "next_level": 117.72,
-   "dist_pct": 5.46,
+   "dist_pct": 11.46,
    "levels_below": [
     117.72
    ],
@@ -1726,10 +1743,10 @@
   },
   {
    "symbol": "CAPLIPOINT",
-   "close": 2033.3,
-   "last_date": "2026-11-23",
+   "close": 2024.8,
+   "last_date": "2026-11-25",
    "next_level": 1500.3,
-   "dist_pct": 26.21,
+   "dist_pct": 25.9,
    "levels_below": [
     1500.3,
     1365.0,
@@ -1744,10 +1761,10 @@
   },
   {
    "symbol": "CGCL",
-   "close": 232.61,
-   "last_date": "2026-11-23",
+   "close": 237.17,
+   "last_date": "2026-11-25",
    "next_level": 225.55,
-   "dist_pct": 3.04,
+   "dist_pct": 4.9,
    "levels_below": [
     225.55,
     217.0,
@@ -1762,10 +1779,10 @@
   },
   {
    "symbol": "CARBORUNIV",
-   "close": 977.1,
-   "last_date": "2026-11-23",
+   "close": 977.3,
+   "last_date": "2026-11-25",
    "next_level": 735.2,
-   "dist_pct": 24.76,
+   "dist_pct": 24.77,
    "levels_below": [
     735.2,
     652.0
@@ -1777,10 +1794,10 @@
   },
   {
    "symbol": "CARTRADE",
-   "close": 2613.5,
-   "last_date": "2026-11-23",
+   "close": 2513.5,
+   "last_date": "2026-11-25",
    "next_level": 2165.0,
-   "dist_pct": 17.16,
+   "dist_pct": 13.87,
    "levels_below": [
     2165.0,
     1690.1,
@@ -1795,10 +1812,10 @@
   },
   {
    "symbol": "CASTROLIND",
-   "close": 190.35,
-   "last_date": "2026-11-23",
+   "close": 190.26,
+   "last_date": "2026-11-25",
    "next_level": 184.0,
-   "dist_pct": 3.34,
+   "dist_pct": 3.29,
    "levels_below": [
     184.0,
     182.9,
@@ -1813,10 +1830,10 @@
   },
   {
    "symbol": "CEATLTD",
-   "close": 3492.4,
-   "last_date": "2026-11-23",
+   "close": 3579.4,
+   "last_date": "2026-11-25",
    "next_level": 3012.6,
-   "dist_pct": 13.74,
+   "dist_pct": 15.84,
    "levels_below": [
     3012.6,
     3000.5,
@@ -1831,10 +1848,10 @@
   },
   {
    "symbol": "CEMPRO",
-   "close": 1438.8,
-   "last_date": "2026-11-23",
+   "close": 1414.7,
+   "last_date": "2026-11-25",
    "next_level": 1066.0,
-   "dist_pct": 25.91,
+   "dist_pct": 24.65,
    "levels_below": [
     1066.0,
     503.3,
@@ -1849,10 +1866,10 @@
   },
   {
    "symbol": "CENTRALBK",
-   "close": 33.4,
-   "last_date": "2026-11-23",
+   "close": 33.31,
+   "last_date": "2026-11-25",
    "next_level": 28.26,
-   "dist_pct": 15.39,
+   "dist_pct": 15.16,
    "levels_below": [
     28.26,
     25.95,
@@ -1867,10 +1884,10 @@
   },
   {
    "symbol": "CDSL",
-   "close": 1395.0,
-   "last_date": "2026-11-23",
+   "close": 1413.0,
+   "last_date": "2026-11-25",
    "next_level": 1159.1,
-   "dist_pct": 16.91,
+   "dist_pct": 17.97,
    "levels_below": [
     1159.1,
     1152.7,
@@ -1885,10 +1902,10 @@
   },
   {
    "symbol": "CMPDI",
-   "close": 183.95,
-   "last_date": "2026-11-23",
+   "close": 181.16,
+   "last_date": "2026-11-25",
    "next_level": 174.28,
-   "dist_pct": 5.26,
+   "dist_pct": 3.8,
    "levels_below": [
     174.28
    ],
@@ -1899,10 +1916,10 @@
   },
   {
    "symbol": "CHAMBLFERT",
-   "close": 369.6,
-   "last_date": "2026-11-23",
+   "close": 366.2,
+   "last_date": "2026-11-25",
    "next_level": 350.0,
-   "dist_pct": 5.3,
+   "dist_pct": 4.42,
    "levels_below": [
     350.0,
     333.4,
@@ -1917,10 +1934,10 @@
   },
   {
    "symbol": "CHENNPETRO",
-   "close": 1443.8,
-   "last_date": "2026-11-23",
+   "close": 1366.6,
+   "last_date": "2026-11-25",
    "next_level": 1325.1,
-   "dist_pct": 8.22,
+   "dist_pct": 3.04,
    "levels_below": [
     1325.1,
     1080.0,
@@ -1935,10 +1952,10 @@
   },
   {
    "symbol": "CHOICEIN",
-   "close": 747.9,
-   "last_date": "2026-11-23",
+   "close": 748.3,
+   "last_date": "2026-11-25",
    "next_level": 671.7,
-   "dist_pct": 10.19,
+   "dist_pct": 10.24,
    "levels_below": [
     671.7,
     632.05,
@@ -1953,10 +1970,10 @@
   },
   {
    "symbol": "CHOLAHLDNG",
-   "close": 1357.1,
-   "last_date": "2026-11-23",
+   "close": 1337.9,
+   "last_date": "2026-11-25",
    "next_level": 1236.7,
-   "dist_pct": 8.87,
+   "dist_pct": 7.56,
    "levels_below": [
     1236.7,
     1058.0,
@@ -1971,10 +1988,10 @@
   },
   {
    "symbol": "CHOLAFIN",
-   "close": 1831.0,
-   "last_date": "2026-11-23",
+   "close": 1868.0,
+   "last_date": "2026-11-25",
    "next_level": 1415.0,
-   "dist_pct": 22.72,
+   "dist_pct": 24.25,
    "levels_below": [
     1415.0,
     1299.4,
@@ -1989,10 +2006,10 @@
   },
   {
    "symbol": "CIPLA",
-   "close": 1399.9,
-   "last_date": "2026-11-23",
+   "close": 1433.2,
+   "last_date": "2026-11-25",
    "next_level": 1292.0,
-   "dist_pct": 7.71,
+   "dist_pct": 9.85,
    "levels_below": [
     1292.0,
     1274.7,
@@ -2007,10 +2024,10 @@
   },
   {
    "symbol": "CUB",
-   "close": 245.54,
-   "last_date": "2026-11-23",
+   "close": 247.0,
+   "last_date": "2026-11-25",
    "next_level": 206.41,
-   "dist_pct": 15.94,
+   "dist_pct": 16.43,
    "levels_below": [
     206.41,
     200.74,
@@ -2025,10 +2042,10 @@
   },
   {
    "symbol": "CLEANMAX",
-   "close": 1250.2,
-   "last_date": "2026-11-23",
+   "close": 1236.7,
+   "last_date": "2026-11-25",
    "next_level": 1021.2,
-   "dist_pct": 18.32,
+   "dist_pct": 17.43,
    "levels_below": [
     1021.2,
     727.1
@@ -2040,10 +2057,10 @@
   },
   {
    "symbol": "CLEAN",
-   "close": 689.35,
-   "last_date": "2026-11-23",
+   "close": 691.4,
+   "last_date": "2026-11-25",
    "next_level": 645.05,
-   "dist_pct": 6.43,
+   "dist_pct": 6.7,
    "levels_below": [
     645.05
    ],
@@ -2054,10 +2071,10 @@
   },
   {
    "symbol": "COALINDIA",
-   "close": 382.0,
-   "last_date": "2026-11-23",
+   "close": 385.0,
+   "last_date": "2026-11-25",
    "next_level": 380.4,
-   "dist_pct": 0.42,
+   "dist_pct": 1.19,
    "levels_below": [
     380.4,
     369.6,
@@ -2072,10 +2089,10 @@
   },
   {
    "symbol": "COCHINSHIP",
-   "close": 1090.0,
-   "last_date": "2026-11-23",
+   "close": 1082.0,
+   "last_date": "2026-11-25",
    "next_level": 713.35,
-   "dist_pct": 34.56,
+   "dist_pct": 34.07,
    "levels_below": [
     713.35,
     611.28,
@@ -2086,14 +2103,14 @@
    "levels_above": [],
    "buys": 12,
    "invalid": 2,
-   "signal_today": true
+   "signal_today": false
   },
   {
    "symbol": "COFORGE",
-   "close": 2142.3,
-   "last_date": "2026-11-23",
+   "close": 2060.0,
+   "last_date": "2026-11-25",
    "next_level": 1812.2,
-   "dist_pct": 15.41,
+   "dist_pct": 12.03,
    "levels_below": [
     1812.2,
     1717.0,
@@ -2108,10 +2125,10 @@
   },
   {
    "symbol": "COHANCE",
-   "close": 474.8,
-   "last_date": "2026-11-23",
+   "close": 489.55,
+   "last_date": "2026-11-25",
    "next_level": 425.0,
-   "dist_pct": 10.49,
+   "dist_pct": 13.19,
    "levels_below": [
     425.0,
     416.2,
@@ -2126,10 +2143,10 @@
   },
   {
    "symbol": "COLPAL",
-   "close": 1755.5,
-   "last_date": "2026-11-23",
+   "close": 1825.0,
+   "last_date": "2026-11-25",
    "next_level": 1563.9,
-   "dist_pct": 10.91,
+   "dist_pct": 14.31,
    "levels_below": [
     1563.9,
     1434.6,
@@ -2143,10 +2160,10 @@
   },
   {
    "symbol": "CAMS",
-   "close": 722.15,
-   "last_date": "2026-11-23",
+   "close": 717.5,
+   "last_date": "2026-11-25",
    "next_level": 639.1,
-   "dist_pct": 11.5,
+   "dist_pct": 10.93,
    "levels_below": [
     639.1,
     611.4,
@@ -2161,10 +2178,10 @@
   },
   {
    "symbol": "CONCORDBIO",
-   "close": 547.0,
-   "last_date": "2026-11-23",
+   "close": 548.9,
+   "last_date": "2026-11-25",
    "next_level": 511.1,
-   "dist_pct": 6.56,
+   "dist_pct": 6.89,
    "levels_below": [
     511.1,
     493.5,
@@ -2177,10 +2194,10 @@
   },
   {
    "symbol": "CONCOR",
-   "close": 427.25,
-   "last_date": "2026-11-23",
+   "close": 425.8,
+   "last_date": "2026-11-25",
    "next_level": 404.25,
-   "dist_pct": 5.38,
+   "dist_pct": 5.06,
    "levels_below": [
     404.25
    ],
@@ -2191,10 +2208,10 @@
   },
   {
    "symbol": "COROMANDEL",
-   "close": 1971.7,
-   "last_date": "2026-11-23",
+   "close": 1940.0,
+   "last_date": "2026-11-25",
    "next_level": 1655.1,
-   "dist_pct": 16.06,
+   "dist_pct": 14.69,
    "levels_below": [
     1655.1,
     1651.1,
@@ -2209,10 +2226,10 @@
   },
   {
    "symbol": "CRAFTSMAN",
-   "close": 11649.0,
-   "last_date": "2026-11-23",
+   "close": 11769.0,
+   "last_date": "2026-11-25",
    "next_level": 10075.0,
-   "dist_pct": 13.51,
+   "dist_pct": 14.39,
    "levels_below": [
     10075.0,
     9980.0,
@@ -2227,10 +2244,10 @@
   },
   {
    "symbol": "CREDITACC",
-   "close": 983.8,
-   "last_date": "2026-11-23",
+   "close": 1019.8,
+   "last_date": "2026-11-25",
    "next_level": 847.8,
-   "dist_pct": 13.82,
+   "dist_pct": 16.87,
    "levels_below": [
     847.8,
     750.2,
@@ -2244,10 +2261,10 @@
   },
   {
    "symbol": "CROMPTON",
-   "close": 219.0,
-   "last_date": "2026-11-23",
+   "close": 219.5,
+   "last_date": "2026-11-25",
    "next_level": 191.55,
-   "dist_pct": 12.53,
+   "dist_pct": 12.73,
    "levels_below": [
     191.55
    ],
@@ -2258,10 +2275,10 @@
   },
   {
    "symbol": "CUMMINSIND",
-   "close": 4052.8,
-   "last_date": "2026-11-23",
+   "close": 4067.0,
+   "last_date": "2026-11-25",
    "next_level": 3902.1,
-   "dist_pct": 3.72,
+   "dist_pct": 4.05,
    "levels_below": [
     3902.1,
     3883.1,
@@ -2276,10 +2293,10 @@
   },
   {
    "symbol": "CUPID",
-   "close": 362.15,
-   "last_date": "2026-11-23",
+   "close": 366.35,
+   "last_date": "2026-11-25",
    "next_level": 246.0,
-   "dist_pct": 32.07,
+   "dist_pct": 32.85,
    "levels_below": [
     246.0,
     111.71,
@@ -2294,10 +2311,10 @@
   },
   {
    "symbol": "CYIENT",
-   "close": 1160.5,
-   "last_date": "2026-11-23",
+   "close": 1151.2,
+   "last_date": "2026-11-25",
    "next_level": 1030.3,
-   "dist_pct": 11.22,
+   "dist_pct": 10.5,
    "levels_below": [
     1030.3,
     814.45,
@@ -2312,10 +2329,10 @@
   },
   {
    "symbol": "DLF",
-   "close": 794.1,
-   "last_date": "2026-11-23",
+   "close": 795.0,
+   "last_date": "2026-11-25",
    "next_level": 634.15,
-   "dist_pct": 20.14,
+   "dist_pct": 20.23,
    "levels_below": [
     634.15,
     611.5,
@@ -2330,10 +2347,10 @@
   },
   {
    "symbol": "DOMS",
-   "close": 2131.0,
-   "last_date": "2026-11-23",
+   "close": 2217.3,
+   "last_date": "2026-11-25",
    "next_level": 1775.0,
-   "dist_pct": 16.71,
+   "dist_pct": 19.95,
    "levels_below": [
     1775.0,
     1696.25,
@@ -2346,10 +2363,10 @@
   },
   {
    "symbol": "DABUR",
-   "close": 399.0,
-   "last_date": "2026-11-23",
+   "close": 430.0,
+   "last_date": "2026-11-25",
    "next_level": 354.3,
-   "dist_pct": 11.2,
+   "dist_pct": 17.6,
    "levels_below": [
     354.3
    ],
@@ -2360,10 +2377,10 @@
   },
   {
    "symbol": "DALBHARAT",
-   "close": 1564.4,
-   "last_date": "2026-11-23",
+   "close": 1586.8,
+   "last_date": "2026-11-25",
    "next_level": 1319.0,
-   "dist_pct": 15.69,
+   "dist_pct": 16.88,
    "levels_below": [
     1319.0,
     1212.5
@@ -2375,10 +2392,10 @@
   },
   {
    "symbol": "DATAPATTNS",
-   "close": 4225.0,
-   "last_date": "2026-11-23",
+   "close": 4135.0,
+   "last_date": "2026-11-25",
    "next_level": 3565.6,
-   "dist_pct": 15.61,
+   "dist_pct": 13.77,
    "levels_below": [
     3565.6,
     2900.1,
@@ -2393,10 +2410,10 @@
   },
   {
    "symbol": "DEEPAKFERT",
-   "close": 1416.5,
-   "last_date": "2026-11-23",
+   "close": 1388.6,
+   "last_date": "2026-11-25",
    "next_level": 1092.6,
-   "dist_pct": 22.87,
+   "dist_pct": 21.32,
    "levels_below": [
     1092.6,
     866.4,
@@ -2410,10 +2427,10 @@
   },
   {
    "symbol": "DEEPAKNTR",
-   "close": 1520.9,
-   "last_date": "2026-11-23",
+   "close": 1494.4,
+   "last_date": "2026-11-25",
    "next_level": 1421.2,
-   "dist_pct": 6.56,
+   "dist_pct": 4.9,
    "levels_below": [
     1421.2,
     1280.0
@@ -2425,10 +2442,10 @@
   },
   {
    "symbol": "DELHIVERY",
-   "close": 457.0,
-   "last_date": "2026-11-23",
+   "close": 462.0,
+   "last_date": "2026-11-25",
    "next_level": 364.65,
-   "dist_pct": 20.21,
+   "dist_pct": 21.07,
    "levels_below": [
     364.65,
     342.85,
@@ -2442,10 +2459,10 @@
   },
   {
    "symbol": "DEVYANI",
-   "close": 119.72,
-   "last_date": "2026-11-23",
+   "close": 125.57,
+   "last_date": "2026-11-25",
    "next_level": 113.29,
-   "dist_pct": 5.37,
+   "dist_pct": 9.78,
    "levels_below": [
     113.29,
     107.0,
@@ -2459,10 +2476,10 @@
   },
   {
    "symbol": "DIVISLAB",
-   "close": 11203.0,
-   "last_date": "2026-11-23",
+   "close": 11716.5,
+   "last_date": "2026-11-25",
    "next_level": 8797.0,
-   "dist_pct": 21.48,
+   "dist_pct": 24.92,
    "levels_below": [
     8797.0,
     6530.5,
@@ -2477,10 +2494,10 @@
   },
   {
    "symbol": "DIXON",
-   "close": 13390.0,
-   "last_date": "2026-11-23",
+   "close": 12978.0,
+   "last_date": "2026-11-25",
    "next_level": 10932.0,
-   "dist_pct": 18.36,
+   "dist_pct": 15.77,
    "levels_below": [
     10932.0,
     10100.0,
@@ -2495,10 +2512,10 @@
   },
   {
    "symbol": "LALPATHLAB",
-   "close": 2040.5,
-   "last_date": "2026-11-23",
+   "close": 2028.3,
+   "last_date": "2026-11-25",
    "next_level": 1797.8,
-   "dist_pct": 11.89,
+   "dist_pct": 11.36,
    "levels_below": [
     1797.8,
     1500.1,
@@ -2513,10 +2530,10 @@
   },
   {
    "symbol": "DRREDDY",
-   "close": 1380.1,
-   "last_date": "2026-11-23",
+   "close": 1398.0,
+   "last_date": "2026-11-25",
    "next_level": 1167.2,
-   "dist_pct": 15.43,
+   "dist_pct": 16.51,
    "levels_below": [
     1167.2,
     1130.0,
@@ -2531,10 +2548,10 @@
   },
   {
    "symbol": "EIDPARRY",
-   "close": 649.85,
-   "last_date": "2026-11-23",
+   "close": 649.6,
+   "last_date": "2026-11-25",
    "next_level": 594.35,
-   "dist_pct": 8.54,
+   "dist_pct": 8.51,
    "levels_below": [
     594.35,
     539.3,
@@ -2549,10 +2566,10 @@
   },
   {
    "symbol": "EIHOTEL",
-   "close": 333.4,
-   "last_date": "2026-11-23",
+   "close": 340.25,
+   "last_date": "2026-11-25",
    "next_level": 281.2,
-   "dist_pct": 15.66,
+   "dist_pct": 17.35,
    "levels_below": [
     281.2,
     280.3,
@@ -2567,10 +2584,10 @@
   },
   {
    "symbol": "EMBASSY",
-   "close": 419.97,
-   "last_date": "2026-11-23",
+   "close": 415.65,
+   "last_date": "2026-11-25",
    "next_level": 407.0,
-   "dist_pct": 3.09,
+   "dist_pct": 2.08,
    "levels_below": [
     407.0,
     377.11,
@@ -2585,10 +2602,10 @@
   },
   {
    "symbol": "EICHERMOT",
-   "close": 8172.5,
-   "last_date": "2026-11-23",
+   "close": 8336.0,
+   "last_date": "2026-11-25",
    "next_level": 6767.5,
-   "dist_pct": 17.19,
+   "dist_pct": 18.82,
    "levels_below": [
     6767.5,
     6752.5,
@@ -2603,10 +2620,10 @@
   },
   {
    "symbol": "ELECON",
-   "close": 438.5,
-   "last_date": "2026-11-23",
+   "close": 439.6,
+   "last_date": "2026-11-25",
    "next_level": 401.2,
-   "dist_pct": 8.51,
+   "dist_pct": 8.74,
    "levels_below": [
     401.2,
     352.0,
@@ -2621,10 +2638,10 @@
   },
   {
    "symbol": "ELGIEQUIP",
-   "close": 543.3,
-   "last_date": "2026-11-23",
+   "close": 549.45,
+   "last_date": "2026-11-25",
    "next_level": 502.9,
-   "dist_pct": 7.44,
+   "dist_pct": 8.47,
    "levels_below": [
     502.9,
     455.0,
@@ -2639,10 +2656,10 @@
   },
   {
    "symbol": "EMAMILTD",
-   "close": 416.7,
-   "last_date": "2026-11-23",
+   "close": 427.55,
+   "last_date": "2026-11-25",
    "next_level": 357.0,
-   "dist_pct": 14.33,
+   "dist_pct": 16.5,
    "levels_below": [
     357.0,
     340.55
@@ -2654,10 +2671,10 @@
   },
   {
    "symbol": "EMCURE",
-   "close": 2309.9,
-   "last_date": "2026-11-23",
+   "close": 2313.5,
+   "last_date": "2026-11-25",
    "next_level": 1716.0,
-   "dist_pct": 25.71,
+   "dist_pct": 25.83,
    "levels_below": [
     1716.0,
     1497.1,
@@ -2672,10 +2689,10 @@
   },
   {
    "symbol": "EMMVEE",
-   "close": 260.73,
-   "last_date": "2026-11-23",
+   "close": 263.62,
+   "last_date": "2026-11-25",
    "next_level": 225.54,
-   "dist_pct": 13.5,
+   "dist_pct": 14.45,
    "levels_below": [
     225.54,
     180.0,
@@ -2688,10 +2705,10 @@
   },
   {
    "symbol": "ENDURANCE",
-   "close": 2555.9,
-   "last_date": "2026-11-23",
+   "close": 2642.2,
+   "last_date": "2026-11-25",
    "next_level": 2202.0,
-   "dist_pct": 13.85,
+   "dist_pct": 16.66,
    "levels_below": [
     2202.0,
     2142.8,
@@ -2706,10 +2723,10 @@
   },
   {
    "symbol": "ENGINERSIN",
-   "close": 298.4,
-   "last_date": "2026-11-23",
+   "close": 288.45,
+   "last_date": "2026-11-25",
    "next_level": 236.75,
-   "dist_pct": 20.66,
+   "dist_pct": 17.92,
    "levels_below": [
     236.75,
     219.44,
@@ -2724,10 +2741,10 @@
   },
   {
    "symbol": "ESCORTS",
-   "close": 2450.0,
-   "last_date": "2026-11-23",
+   "close": 2437.2,
+   "last_date": "2026-11-25",
    "next_level": 1807.7,
-   "dist_pct": 26.22,
+   "dist_pct": 25.83,
    "levels_below": [
     1807.7,
     1604.65,
@@ -2740,10 +2757,10 @@
   },
   {
    "symbol": "ETERNAL",
-   "close": 362.1,
-   "last_date": "2026-11-23",
+   "close": 371.7,
+   "last_date": "2026-11-25",
    "next_level": 301.75,
-   "dist_pct": 16.67,
+   "dist_pct": 18.82,
    "levels_below": [
     301.75,
     275.55,
@@ -2758,10 +2775,10 @@
   },
   {
    "symbol": "EXIDEIND",
-   "close": 401.85,
-   "last_date": "2026-11-23",
+   "close": 395.9,
+   "last_date": "2026-11-25",
    "next_level": 328.65,
-   "dist_pct": 18.22,
+   "dist_pct": 16.99,
    "levels_below": [
     328.65,
     287.0,
@@ -2776,10 +2793,10 @@
   },
   {
    "symbol": "NYKAA",
-   "close": 357.0,
-   "last_date": "2026-11-23",
+   "close": 358.0,
+   "last_date": "2026-11-25",
    "next_level": 311.4,
-   "dist_pct": 12.77,
+   "dist_pct": 13.02,
    "levels_below": [
     311.4,
     257.8,
@@ -2794,10 +2811,10 @@
   },
   {
    "symbol": "FEDERALBNK",
-   "close": 359.8,
-   "last_date": "2026-11-23",
+   "close": 356.2,
+   "last_date": "2026-11-25",
    "next_level": 313.75,
-   "dist_pct": 12.8,
+   "dist_pct": 11.92,
    "levels_below": [
     313.75,
     277.1,
@@ -2812,10 +2829,10 @@
   },
   {
    "symbol": "FACT",
-   "close": 751.0,
-   "last_date": "2026-11-23",
+   "close": 743.85,
+   "last_date": "2026-11-25",
    "next_level": 658.8,
-   "dist_pct": 12.28,
+   "dist_pct": 11.43,
    "levels_below": [
     658.8,
     652.1,
@@ -2830,10 +2847,10 @@
   },
   {
    "symbol": "FINCABLES",
-   "close": 1174.2,
-   "last_date": "2026-11-23",
+   "close": 1157.7,
+   "last_date": "2026-11-25",
    "next_level": 1052.6,
-   "dist_pct": 10.36,
+   "dist_pct": 9.08,
    "levels_below": [
     1052.6,
     956.2,
@@ -2848,10 +2865,10 @@
   },
   {
    "symbol": "FSL",
-   "close": 283.6,
-   "last_date": "2026-11-23",
+   "close": 288.9,
+   "last_date": "2026-11-25",
    "next_level": 247.0,
-   "dist_pct": 12.91,
+   "dist_pct": 14.5,
    "levels_below": [
     247.0,
     246.65,
@@ -2866,10 +2883,10 @@
   },
   {
    "symbol": "FIVESTAR",
-   "close": 429.35,
-   "last_date": "2026-11-23",
+   "close": 424.55,
+   "last_date": "2026-11-25",
    "next_level": 386.8,
-   "dist_pct": 9.91,
+   "dist_pct": 8.89,
    "levels_below": [
     386.8,
     338.15
@@ -2881,10 +2898,10 @@
   },
   {
    "symbol": "FORCEMOT",
-   "close": 20098.0,
-   "last_date": "2026-11-23",
+   "close": 20392.0,
+   "last_date": "2026-11-25",
    "next_level": 16184.0,
-   "dist_pct": 19.47,
+   "dist_pct": 20.64,
    "levels_below": [
     16184.0,
     14911.0,
@@ -2899,10 +2916,10 @@
   },
   {
    "symbol": "FORTIS",
-   "close": 809.0,
-   "last_date": "2026-11-23",
+   "close": 826.0,
+   "last_date": "2026-11-25",
    "next_level": 704.95,
-   "dist_pct": 12.86,
+   "dist_pct": 14.65,
    "levels_below": [
     704.95,
     595.8,
@@ -2917,10 +2934,10 @@
   },
   {
    "symbol": "FRACTAL",
-   "close": 809.4,
-   "last_date": "2026-11-23",
+   "close": 792.5,
+   "last_date": "2026-11-25",
    "next_level": 702.3,
-   "dist_pct": 13.23,
+   "dist_pct": 11.38,
    "levels_below": [
     702.3,
     696.3
@@ -2932,10 +2949,10 @@
   },
   {
    "symbol": "GAIL",
-   "close": 185.6,
-   "last_date": "2026-11-23",
+   "close": 187.5,
+   "last_date": "2026-11-25",
    "next_level": 160.7,
-   "dist_pct": 13.42,
+   "dist_pct": 14.29,
    "levels_below": [
     160.7,
     151.41,
@@ -2950,10 +2967,10 @@
   },
   {
    "symbol": "GVT&D",
-   "close": 4195.0,
-   "last_date": "2026-11-23",
+   "close": 4070.0,
+   "last_date": "2026-11-25",
    "next_level": 3533.4,
-   "dist_pct": 15.77,
+   "dist_pct": 13.18,
    "levels_below": [
     3533.4,
     3390.0,
@@ -2968,10 +2985,10 @@
   },
   {
    "symbol": "GMRAIRPORT",
-   "close": 102.32,
-   "last_date": "2026-11-23",
+   "close": 102.65,
+   "last_date": "2026-11-25",
    "next_level": 84.22,
-   "dist_pct": 17.69,
+   "dist_pct": 17.95,
    "levels_below": [
     84.22,
     84.11,
@@ -2986,10 +3003,10 @@
   },
   {
    "symbol": "GABRIEL",
-   "close": 1507.9,
-   "last_date": "2026-11-23",
+   "close": 1501.8,
+   "last_date": "2026-11-25",
    "next_level": 1268.2,
-   "dist_pct": 15.9,
+   "dist_pct": 15.55,
    "levels_below": [
     1268.2,
     975.6,
@@ -3004,10 +3021,10 @@
   },
   {
    "symbol": "GALLANTT",
-   "close": 543.35,
-   "last_date": "2026-11-23",
+   "close": 550.55,
+   "last_date": "2026-11-25",
    "next_level": 505.1,
-   "dist_pct": 7.04,
+   "dist_pct": 8.26,
    "levels_below": [
     505.1,
     500.0,
@@ -3022,10 +3039,10 @@
   },
   {
    "symbol": "GRSE",
-   "close": 2013.8,
-   "last_date": "2026-11-23",
+   "close": 2049.9,
+   "last_date": "2026-11-25",
    "next_level": 1842.0,
-   "dist_pct": 8.53,
+   "dist_pct": 10.14,
    "levels_below": [
     1842.0,
     1405.0,
@@ -3040,10 +3057,10 @@
   },
   {
    "symbol": "GICRE",
-   "close": 333.6,
-   "last_date": "2026-11-23",
+   "close": 337.2,
+   "last_date": "2026-11-25",
    "next_level": 309.0,
-   "dist_pct": 7.37,
+   "dist_pct": 8.36,
    "levels_below": [
     309.0,
     308.0,
@@ -3058,10 +3075,10 @@
   },
   {
    "symbol": "GILLETTE",
-   "close": 7116.5,
-   "last_date": "2026-11-23",
+   "close": 7211.5,
+   "last_date": "2026-11-25",
    "next_level": 7017.5,
-   "dist_pct": 1.39,
+   "dist_pct": 2.69,
    "levels_below": [
     7017.5,
     6860.0,
@@ -3076,10 +3093,10 @@
   },
   {
    "symbol": "GLAND",
-   "close": 3297.4,
-   "last_date": "2026-11-23",
+   "close": 3348.4,
+   "last_date": "2026-11-25",
    "next_level": 2769.8,
-   "dist_pct": 16.0,
+   "dist_pct": 17.28,
    "levels_below": [
     2769.8,
     2351.1,
@@ -3094,10 +3111,10 @@
   },
   {
    "symbol": "GLAXO",
-   "close": 2701.2,
-   "last_date": "2026-11-23",
+   "close": 2714.0,
+   "last_date": "2026-11-25",
    "next_level": 2344.1,
-   "dist_pct": 13.22,
+   "dist_pct": 13.63,
    "levels_below": [
     2344.1,
     2088.1,
@@ -3112,10 +3129,10 @@
   },
   {
    "symbol": "GLENMARK",
-   "close": 2657.0,
-   "last_date": "2026-11-23",
+   "close": 2719.0,
+   "last_date": "2026-11-25",
    "next_level": 2101.6,
-   "dist_pct": 20.9,
+   "dist_pct": 22.71,
    "levels_below": [
     2101.6,
     2101.0,
@@ -3130,10 +3147,10 @@
   },
   {
    "symbol": "MEDANTA",
-   "close": 1500.2,
-   "last_date": "2026-11-23",
+   "close": 1528.5,
+   "last_date": "2026-11-25",
    "next_level": 1165.0,
-   "dist_pct": 22.34,
+   "dist_pct": 23.78,
    "levels_below": [
     1165.0,
     1153.0,
@@ -3148,10 +3165,10 @@
   },
   {
    "symbol": "GPIL",
-   "close": 217.95,
-   "last_date": "2026-11-23",
+   "close": 211.42,
+   "last_date": "2026-11-25",
    "next_level": 189.15,
-   "dist_pct": 13.21,
+   "dist_pct": 10.53,
    "levels_below": [
     189.15,
     185.32,
@@ -3166,10 +3183,10 @@
   },
   {
    "symbol": "GODFRYPHLP",
-   "close": 1746.9,
-   "last_date": "2026-11-23",
+   "close": 1761.5,
+   "last_date": "2026-11-25",
    "next_level": 1641.2,
-   "dist_pct": 6.05,
+   "dist_pct": 6.83,
    "levels_below": [
     1641.2,
     1370.82,
@@ -3184,10 +3201,10 @@
   },
   {
    "symbol": "GODREJCP",
-   "close": 912.3,
-   "last_date": "2026-11-23",
+   "close": 963.0,
+   "last_date": "2026-11-25",
    "next_level": 777.2,
-   "dist_pct": 14.81,
+   "dist_pct": 19.29,
    "levels_below": [
     777.2,
     708.5,
@@ -3201,10 +3218,10 @@
   },
   {
    "symbol": "GODREJIND",
-   "close": 1075.95,
-   "last_date": "2026-11-23",
+   "close": 1050.7,
+   "last_date": "2026-11-25",
    "next_level": 890.0,
-   "dist_pct": 17.28,
+   "dist_pct": 15.29,
    "levels_below": [
     890.0,
     744.2,
@@ -3219,10 +3236,10 @@
   },
   {
    "symbol": "GODREJPROP",
-   "close": 1923.0,
-   "last_date": "2026-11-23",
+   "close": 1920.0,
+   "last_date": "2026-11-25",
    "next_level": 1468.4,
-   "dist_pct": 23.64,
+   "dist_pct": 23.52,
    "levels_below": [
     1468.4,
     1434.0,
@@ -3235,10 +3252,10 @@
   },
   {
    "symbol": "GRANULES",
-   "close": 837.75,
-   "last_date": "2026-11-23",
+   "close": 840.8,
+   "last_date": "2026-11-25",
    "next_level": 761.5,
-   "dist_pct": 9.1,
+   "dist_pct": 9.43,
    "levels_below": [
     761.5,
     736.5,
@@ -3253,10 +3270,10 @@
   },
   {
    "symbol": "GRAPHITE",
-   "close": 789.9,
-   "last_date": "2026-11-23",
+   "close": 794.45,
+   "last_date": "2026-11-25",
    "next_level": 677.1,
-   "dist_pct": 14.28,
+   "dist_pct": 14.77,
    "levels_below": [
     677.1,
     570.0,
@@ -3271,10 +3288,10 @@
   },
   {
    "symbol": "GRASIM",
-   "close": 3075.2,
-   "last_date": "2026-11-23",
+   "close": 3162.0,
+   "last_date": "2026-11-25",
    "next_level": 2828.2,
-   "dist_pct": 8.03,
+   "dist_pct": 10.56,
    "levels_below": [
     2828.2,
     2502.5,
@@ -3289,10 +3306,10 @@
   },
   {
    "symbol": "GRAVITA",
-   "close": 1470.3,
-   "last_date": "2026-11-23",
+   "close": 1478.4,
+   "last_date": "2026-11-25",
    "next_level": 1300.0,
-   "dist_pct": 11.58,
+   "dist_pct": 12.07,
    "levels_below": [
     1300.0,
     1266.9,
@@ -3307,10 +3324,10 @@
   },
   {
    "symbol": "GESHIP",
-   "close": 1538.3,
-   "last_date": "2026-11-23",
+   "close": 1548.0,
+   "last_date": "2026-11-25",
    "next_level": 1408.9,
-   "dist_pct": 8.41,
+   "dist_pct": 8.99,
    "levels_below": [
     1408.9,
     1261.0,
@@ -3325,10 +3342,10 @@
   },
   {
    "symbol": "FLUOROCHEM",
-   "close": 4895.0,
-   "last_date": "2026-11-23",
+   "close": 4731.8,
+   "last_date": "2026-11-25",
    "next_level": 4086.7,
-   "dist_pct": 16.51,
+   "dist_pct": 13.63,
    "levels_below": [
     4086.7,
     3451.2,
@@ -3343,10 +3360,10 @@
   },
   {
    "symbol": "GMDCLTD",
-   "close": 466.55,
-   "last_date": "2026-11-23",
+   "close": 455.15,
+   "last_date": "2026-11-25",
    "next_level": 394.55,
-   "dist_pct": 15.43,
+   "dist_pct": 13.31,
    "levels_below": [
     394.55,
     374.8,
@@ -3361,10 +3378,10 @@
   },
   {
    "symbol": "HBLENGINE",
-   "close": 770.0,
-   "last_date": "2026-11-23",
+   "close": 757.15,
+   "last_date": "2026-11-25",
    "next_level": 701.0,
-   "dist_pct": 8.96,
+   "dist_pct": 7.42,
    "levels_below": [
     701.0,
     648.0,
@@ -3379,10 +3396,10 @@
   },
   {
    "symbol": "HCLTECH",
-   "close": 1364.3,
-   "last_date": "2026-11-23",
+   "close": 1380.0,
+   "last_date": "2026-11-25",
    "next_level": 1172.8,
-   "dist_pct": 14.04,
+   "dist_pct": 15.01,
    "levels_below": [
     1172.8,
     1030.0,
@@ -3397,10 +3414,10 @@
   },
   {
    "symbol": "HDBFS",
-   "close": 567.7,
-   "last_date": "2026-11-23",
+   "close": 557.85,
+   "last_date": "2026-11-25",
    "next_level": 494.15,
-   "dist_pct": 12.96,
+   "dist_pct": 11.42,
    "levels_below": [
     494.15
    ],
@@ -3411,10 +3428,10 @@
   },
   {
    "symbol": "HDFCAMC",
-   "close": 2682.0,
-   "last_date": "2026-11-23",
+   "close": 2671.3,
+   "last_date": "2026-11-25",
    "next_level": 2215.6,
-   "dist_pct": 17.39,
+   "dist_pct": 17.06,
    "levels_below": [
     2215.6,
     2205.6,
@@ -3429,10 +3446,10 @@
   },
   {
    "symbol": "HDFCBANK",
-   "close": 817.8,
-   "last_date": "2026-11-23",
+   "close": 846.2,
+   "last_date": "2026-11-25",
    "next_level": 669.2,
-   "dist_pct": 18.17,
+   "dist_pct": 20.92,
    "levels_below": [
     669.2,
     668.5,
@@ -3445,10 +3462,10 @@
   },
   {
    "symbol": "HDFCLIFE",
-   "close": 574.95,
-   "last_date": "2026-11-23",
+   "close": 601.3,
+   "last_date": "2026-11-25",
    "next_level": 508.05,
-   "dist_pct": 11.64,
+   "dist_pct": 15.51,
    "levels_below": [
     508.05,
     457.8
@@ -3460,10 +3477,10 @@
   },
   {
    "symbol": "HEGAM",
-   "close": 258.67,
-   "last_date": "2026-11-23",
+   "close": 258.66,
+   "last_date": "2026-11-25",
    "next_level": 191.71,
-   "dist_pct": 25.89,
+   "dist_pct": 25.88,
    "levels_below": [
     191.71,
     183.6,
@@ -3476,10 +3493,10 @@
   },
   {
    "symbol": "HFCL",
-   "close": 178.6,
-   "last_date": "2026-11-23",
+   "close": 169.95,
+   "last_date": "2026-11-25",
    "next_level": 64.5,
-   "dist_pct": 63.89,
+   "dist_pct": 62.05,
    "levels_below": [
     64.5,
     59.82,
@@ -3489,14 +3506,14 @@
    "levels_above": [],
    "buys": 15,
    "invalid": 2,
-   "signal_today": true
+   "signal_today": false
   },
   {
    "symbol": "HAVELLS",
-   "close": 1184.0,
-   "last_date": "2026-11-23",
+   "close": 1196.4,
+   "last_date": "2026-11-25",
    "next_level": 999.2,
-   "dist_pct": 15.61,
+   "dist_pct": 16.48,
    "levels_below": [
     999.2
    ],
@@ -3507,10 +3524,10 @@
   },
   {
    "symbol": "HEROMOTOCO",
-   "close": 5535.0,
-   "last_date": "2026-11-23",
+   "close": 5751.5,
+   "last_date": "2026-11-25",
    "next_level": 4825.0,
-   "dist_pct": 12.83,
+   "dist_pct": 16.11,
    "levels_below": [
     4825.0,
     4671.5,
@@ -3525,10 +3542,10 @@
   },
   {
    "symbol": "HEXT",
-   "close": 483.1,
-   "last_date": "2026-11-23",
+   "close": 489.45,
+   "last_date": "2026-11-25",
    "next_level": 476.25,
-   "dist_pct": 1.42,
+   "dist_pct": 2.7,
    "levels_below": [
     476.25,
     472.0,
@@ -3541,10 +3558,10 @@
   },
   {
    "symbol": "HSCL",
-   "close": 552.95,
-   "last_date": "2026-11-23",
+   "close": 543.2,
+   "last_date": "2026-11-25",
    "next_level": 484.15,
-   "dist_pct": 12.44,
+   "dist_pct": 10.87,
    "levels_below": [
     484.15,
     421.0,
@@ -3559,10 +3576,10 @@
   },
   {
    "symbol": "HINDALCO",
-   "close": 900.45,
-   "last_date": "2026-11-23",
+   "close": 889.9,
+   "last_date": "2026-11-25",
    "next_level": 851.1,
-   "dist_pct": 5.48,
+   "dist_pct": 4.36,
    "levels_below": [
     851.1,
     835.95,
@@ -3577,10 +3594,10 @@
   },
   {
    "symbol": "HAL",
-   "close": 4780.0,
-   "last_date": "2026-11-23",
+   "close": 4936.0,
+   "last_date": "2026-11-25",
    "next_level": 4642.0,
-   "dist_pct": 2.89,
+   "dist_pct": 5.96,
    "levels_below": [
     4642.0,
     4549.3,
@@ -3595,10 +3612,10 @@
   },
   {
    "symbol": "HINDCOPPER",
-   "close": 411.25,
-   "last_date": "2026-11-23",
+   "close": 398.9,
+   "last_date": "2026-11-25",
    "next_level": 392.3,
-   "dist_pct": 4.61,
+   "dist_pct": 1.65,
    "levels_below": [
     392.3,
     308.5,
@@ -3613,10 +3630,10 @@
   },
   {
    "symbol": "HINDPETRO",
-   "close": 385.0,
-   "last_date": "2026-11-23",
+   "close": 391.0,
+   "last_date": "2026-11-25",
    "next_level": 323.25,
-   "dist_pct": 16.04,
+   "dist_pct": 17.33,
    "levels_below": [
     323.25,
     316.2,
@@ -3631,10 +3648,10 @@
   },
   {
    "symbol": "HINDUNILVR",
-   "close": 2019.1,
-   "last_date": "2026-11-23",
+   "close": 2141.8,
+   "last_date": "2026-11-25",
    "next_level": 1758.2,
-   "dist_pct": 12.92,
+   "dist_pct": 17.91,
    "levels_below": [
     1758.2
    ],
@@ -3645,10 +3662,10 @@
   },
   {
    "symbol": "HINDZINC",
-   "close": 528.95,
-   "last_date": "2026-11-23",
+   "close": 519.7,
+   "last_date": "2026-11-25",
    "next_level": 490.5,
-   "dist_pct": 7.27,
+   "dist_pct": 5.62,
    "levels_below": [
     490.5,
     484.0,
@@ -3663,10 +3680,10 @@
   },
   {
    "symbol": "POWERINDIA",
-   "close": 30240.0,
-   "last_date": "2026-11-23",
+   "close": 29770.0,
+   "last_date": "2026-11-25",
    "next_level": 25420.0,
-   "dist_pct": 15.94,
+   "dist_pct": 14.61,
    "levels_below": [
     25420.0,
     23400.0,
@@ -3681,10 +3698,10 @@
   },
   {
    "symbol": "HOMEFIRST",
-   "close": 1023.8,
-   "last_date": "2026-11-23",
+   "close": 1018.3,
+   "last_date": "2026-11-25",
    "next_level": 981.1,
-   "dist_pct": 4.17,
+   "dist_pct": 3.65,
    "levels_below": [
     981.1,
     893.7,
@@ -3699,10 +3716,10 @@
   },
   {
    "symbol": "HONASA",
-   "close": 539.75,
-   "last_date": "2026-11-23",
+   "close": 536.45,
+   "last_date": "2026-11-25",
    "next_level": 415.3,
-   "dist_pct": 23.06,
+   "dist_pct": 22.58,
    "levels_below": [
     415.3,
     413.85,
@@ -3717,10 +3734,10 @@
   },
   {
    "symbol": "HONAUT",
-   "close": 29715.0,
-   "last_date": "2026-11-23",
+   "close": 29255.0,
+   "last_date": "2026-11-25",
    "next_level": 28800.0,
-   "dist_pct": 3.08,
+   "dist_pct": 1.56,
    "levels_below": [
     28800.0,
     28000.0,
@@ -3733,10 +3750,10 @@
   },
   {
    "symbol": "HUDCO",
-   "close": 158.16,
-   "last_date": "2026-11-23",
+   "close": 155.36,
+   "last_date": "2026-11-25",
    "next_level": 141.81,
-   "dist_pct": 10.34,
+   "dist_pct": 8.72,
    "levels_below": [
     141.81,
     70.5,
@@ -3751,10 +3768,10 @@
   },
   {
    "symbol": "HYUNDAI",
-   "close": 2155.0,
-   "last_date": "2026-11-23",
+   "close": 2112.0,
+   "last_date": "2026-11-25",
    "next_level": 1827.0,
-   "dist_pct": 15.22,
+   "dist_pct": 13.49,
    "levels_below": [
     1827.0,
     1760.0,
@@ -3768,10 +3785,10 @@
   },
   {
    "symbol": "ICICIBANK",
-   "close": 1585.5,
-   "last_date": "2026-11-23",
+   "close": 1640.0,
+   "last_date": "2026-11-25",
    "next_level": 1291.0,
-   "dist_pct": 18.57,
+   "dist_pct": 21.28,
    "levels_below": [
     1291.0,
     1213.7,
@@ -3786,10 +3803,10 @@
   },
   {
    "symbol": "ICICILIFE",
-   "close": 465.0,
-   "last_date": "2026-11-23",
+   "close": 474.0,
+   "last_date": "2026-11-25",
    "next_level": 401.65,
-   "dist_pct": 13.62,
+   "dist_pct": 15.26,
    "levels_below": [
     401.65,
     380.7
@@ -3801,10 +3818,10 @@
   },
   {
    "symbol": "ICICIGI",
-   "close": 1742.6,
-   "last_date": "2026-11-23",
+   "close": 1736.6,
+   "last_date": "2026-11-25",
    "next_level": 1533.0,
-   "dist_pct": 12.03,
+   "dist_pct": 11.72,
    "levels_below": [
     1533.0,
     1423.1,
@@ -3819,10 +3836,10 @@
   },
   {
    "symbol": "ICICIAMC",
-   "close": 2933.0,
-   "last_date": "2026-11-23",
+   "close": 2967.3,
+   "last_date": "2026-11-25",
    "next_level": 2621.0,
-   "dist_pct": 10.64,
+   "dist_pct": 11.67,
    "levels_below": [
     2621.0,
     2587.0
@@ -3834,10 +3851,10 @@
   },
   {
    "symbol": "IDBI",
-   "close": 78.44,
-   "last_date": "2026-11-23",
+   "close": 78.03,
+   "last_date": "2026-11-25",
    "next_level": 75.7,
-   "dist_pct": 3.49,
+   "dist_pct": 2.99,
    "levels_below": [
     75.7,
     68.2,
@@ -3852,10 +3869,10 @@
   },
   {
    "symbol": "IDFCFIRSTB",
-   "close": 85.4,
-   "last_date": "2026-11-23",
+   "close": 87.47,
+   "last_date": "2026-11-25",
    "next_level": 69.52,
-   "dist_pct": 18.59,
+   "dist_pct": 20.52,
    "levels_below": [
     69.52,
     66.16,
@@ -3870,10 +3887,10 @@
   },
   {
    "symbol": "IFCI",
-   "close": 58.77,
-   "last_date": "2026-11-23",
+   "close": 57.67,
+   "last_date": "2026-11-25",
    "next_level": 54.2,
-   "dist_pct": 7.78,
+   "dist_pct": 6.02,
    "levels_below": [
     54.2,
     46.4,
@@ -3888,10 +3905,10 @@
   },
   {
    "symbol": "IIFL",
-   "close": 615.0,
-   "last_date": "2026-11-23",
+   "close": 610.5,
+   "last_date": "2026-11-25",
    "next_level": 512.7,
-   "dist_pct": 16.63,
+   "dist_pct": 16.02,
    "levels_below": [
     512.7,
     486.5,
@@ -3906,10 +3923,10 @@
   },
   {
    "symbol": "INOXINDIA",
-   "close": 2088.0,
-   "last_date": "2026-11-23",
+   "close": 2137.3,
+   "last_date": "2026-11-25",
    "next_level": 1806.0,
-   "dist_pct": 13.51,
+   "dist_pct": 15.5,
    "levels_below": [
     1806.0,
     1788.4,
@@ -3924,10 +3941,10 @@
   },
   {
    "symbol": "IRB",
-   "close": 17.4,
-   "last_date": "2026-11-23",
+   "close": 17.34,
+   "last_date": "2026-11-25",
    "next_level": 15.68,
-   "dist_pct": 9.89,
+   "dist_pct": 9.57,
    "levels_below": [
     15.68,
     14.38,
@@ -3942,10 +3959,10 @@
   },
   {
    "symbol": "IRCON",
-   "close": 107.83,
-   "last_date": "2026-11-23",
+   "close": 107.36,
+   "last_date": "2026-11-25",
    "next_level": 95.76,
-   "dist_pct": 11.19,
+   "dist_pct": 10.8,
    "levels_below": [
     95.76,
     79.0,
@@ -3960,10 +3977,10 @@
   },
   {
    "symbol": "ITCHOTELS",
-   "close": 184.12,
-   "last_date": "2026-11-23",
+   "close": 186.5,
+   "last_date": "2026-11-25",
    "next_level": 152.85,
-   "dist_pct": 16.98,
+   "dist_pct": 18.04,
    "levels_below": [
     152.85,
     149.85,
@@ -3977,10 +3994,10 @@
   },
   {
    "symbol": "ITC",
-   "close": 301.0,
-   "last_date": "2026-11-23",
+   "close": 309.25,
+   "last_date": "2026-11-25",
    "next_level": 252.8,
-   "dist_pct": 16.01,
+   "dist_pct": 18.25,
    "levels_below": [
     252.8,
     248.96,
@@ -3994,10 +4011,10 @@
   },
   {
    "symbol": "ITI",
-   "close": 276.21,
-   "last_date": "2026-11-23",
+   "close": 257.6,
+   "last_date": "2026-11-25",
    "next_level": 210.76,
-   "dist_pct": 23.7,
+   "dist_pct": 18.18,
    "levels_below": [
     210.76,
     210.0,
@@ -4012,10 +4029,10 @@
   },
   {
    "symbol": "INDIACEM",
-   "close": 320.65,
-   "last_date": "2026-11-23",
+   "close": 323.95,
+   "last_date": "2026-11-25",
    "next_level": 286.5,
-   "dist_pct": 10.65,
+   "dist_pct": 11.56,
    "levels_below": [
     286.5,
     278.3,
@@ -4030,10 +4047,10 @@
   },
   {
    "symbol": "INDIAMART",
-   "close": 1547.0,
-   "last_date": "2026-11-23",
+   "close": 1520.4,
+   "last_date": "2026-11-25",
    "next_level": 1465.4,
-   "dist_pct": 5.27,
+   "dist_pct": 3.62,
    "levels_below": [
     1465.4
    ],
@@ -4044,10 +4061,10 @@
   },
   {
    "symbol": "INDIANB",
-   "close": 933.0,
-   "last_date": "2026-11-23",
+   "close": 930.0,
+   "last_date": "2026-11-25",
    "next_level": 786.85,
-   "dist_pct": 15.66,
+   "dist_pct": 15.39,
    "levels_below": [
     786.85,
     769.25,
@@ -4062,10 +4079,10 @@
   },
   {
    "symbol": "IEX",
-   "close": 109.15,
-   "last_date": "2026-11-23",
+   "close": 111.0,
+   "last_date": "2026-11-25",
    "next_level": 99.5,
-   "dist_pct": 8.84,
+   "dist_pct": 10.36,
    "levels_below": [
     99.5
    ],
@@ -4076,10 +4093,10 @@
   },
   {
    "symbol": "INDHOTEL",
-   "close": 906.0,
-   "last_date": "2026-11-23",
+   "close": 903.85,
+   "last_date": "2026-11-25",
    "next_level": 704.6,
-   "dist_pct": 22.23,
+   "dist_pct": 22.04,
    "levels_below": [
     704.6,
     701.55,
@@ -4094,10 +4111,10 @@
   },
   {
    "symbol": "IOC",
-   "close": 145.0,
-   "last_date": "2026-11-23",
+   "close": 147.79,
+   "last_date": "2026-11-25",
    "next_level": 124.92,
-   "dist_pct": 13.85,
+   "dist_pct": 15.47,
    "levels_below": [
     124.92,
     122.35,
@@ -4112,10 +4129,10 @@
   },
   {
    "symbol": "IOB",
-   "close": 31.22,
-   "last_date": "2026-11-23",
+   "close": 31.06,
+   "last_date": "2026-11-25",
    "next_level": 28.32,
-   "dist_pct": 9.29,
+   "dist_pct": 8.82,
    "levels_below": [
     28.32,
     25.7,
@@ -4130,10 +4147,10 @@
   },
   {
    "symbol": "IRCTC",
-   "close": 447.2,
-   "last_date": "2026-11-23",
+   "close": 441.85,
+   "last_date": "2026-11-25",
    "next_level": 435.0,
-   "dist_pct": 2.73,
+   "dist_pct": 1.55,
    "levels_below": [
     435.0
    ],
@@ -4144,10 +4161,10 @@
   },
   {
    "symbol": "IRFC",
-   "close": 80.8,
-   "last_date": "2026-11-23",
+   "close": 81.05,
+   "last_date": "2026-11-25",
    "next_level": 73.05,
-   "dist_pct": 9.59,
+   "dist_pct": 9.87,
    "levels_below": [
     73.05,
     65.75,
@@ -4162,10 +4179,10 @@
   },
   {
    "symbol": "IREDA",
-   "close": 132.2,
-   "last_date": "2026-11-23",
+   "close": 124.75,
+   "last_date": "2026-11-25",
    "next_level": 98.78,
-   "dist_pct": 25.28,
+   "dist_pct": 20.82,
    "levels_below": [
     98.78
    ],
@@ -4176,10 +4193,10 @@
   },
   {
    "symbol": "IGL",
-   "close": 153.31,
-   "last_date": "2026-11-23",
+   "close": 149.67,
+   "last_date": "2026-11-25",
    "next_level": 125.63,
-   "dist_pct": 18.05,
+   "dist_pct": 16.06,
    "levels_below": [
     125.63
    ],
@@ -4190,10 +4207,10 @@
   },
   {
    "symbol": "INDUSTOWER",
-   "close": 380.25,
-   "last_date": "2026-11-23",
+   "close": 381.8,
+   "last_date": "2026-11-25",
    "next_level": 370.0,
-   "dist_pct": 2.7,
+   "dist_pct": 3.09,
    "levels_below": [
     370.0,
     355.55,
@@ -4208,10 +4225,10 @@
   },
   {
    "symbol": "INDUSINDBK",
-   "close": 963.0,
-   "last_date": "2026-11-23",
+   "close": 973.7,
+   "last_date": "2026-11-25",
    "next_level": 827.5,
-   "dist_pct": 14.07,
+   "dist_pct": 15.01,
    "levels_below": [
     827.5,
     750.5,
@@ -4226,10 +4243,10 @@
   },
   {
    "symbol": "NAUKRI",
-   "close": 1187.5,
-   "last_date": "2026-11-23",
+   "close": 1220.0,
+   "last_date": "2026-11-25",
    "next_level": 1138.4,
-   "dist_pct": 4.13,
+   "dist_pct": 6.69,
    "levels_below": [
     1138.4,
     908.3,
@@ -4244,10 +4261,10 @@
   },
   {
    "symbol": "INFY",
-   "close": 1103.4,
-   "last_date": "2026-11-23",
+   "close": 1130.0,
+   "last_date": "2026-11-25",
    "next_level": 980.4,
-   "dist_pct": 11.15,
+   "dist_pct": 13.24,
    "levels_below": [
     980.4
    ],
@@ -4258,10 +4275,10 @@
   },
   {
    "symbol": "INOXWIND",
-   "close": 53.7,
-   "last_date": "2026-11-23",
+   "close": 52.36,
+   "last_date": "2026-11-25",
    "next_level": 47.38,
-   "dist_pct": 11.78,
+   "dist_pct": 9.52,
    "levels_below": [
     47.38,
     47.05,
@@ -4276,10 +4293,10 @@
   },
   {
    "symbol": "INTELLECT",
-   "close": 578.45,
-   "last_date": "2026-11-23",
+   "close": 601.4,
+   "last_date": "2026-11-25",
    "next_level": 478.0,
-   "dist_pct": 17.37,
+   "dist_pct": 20.52,
    "levels_below": [
     478.0,
     388.65
@@ -4291,10 +4308,10 @@
   },
   {
    "symbol": "INDIGO",
-   "close": 5523.0,
-   "last_date": "2026-11-23",
+   "close": 5720.0,
+   "last_date": "2026-11-25",
    "next_level": 4464.4,
-   "dist_pct": 19.17,
+   "dist_pct": 21.95,
    "levels_below": [
     4464.4,
     4350.0,
@@ -4309,10 +4326,10 @@
   },
   {
    "symbol": "IGIL",
-   "close": 431.1,
-   "last_date": "2026-11-23",
+   "close": 432.5,
+   "last_date": "2026-11-25",
    "next_level": 304.1,
-   "dist_pct": 29.46,
+   "dist_pct": 29.69,
    "levels_below": [
     304.1,
     296.05,
@@ -4326,10 +4343,10 @@
   },
   {
    "symbol": "IKS",
-   "close": 1603.8,
-   "last_date": "2026-11-23",
+   "close": 1644.9,
+   "last_date": "2026-11-25",
    "next_level": 1582.5,
-   "dist_pct": 1.33,
+   "dist_pct": 3.79,
    "levels_below": [
     1582.5,
     1519.5,
@@ -4343,10 +4360,10 @@
   },
   {
    "symbol": "IPCALAB",
-   "close": 1815.9,
-   "last_date": "2026-11-23",
+   "close": 1830.5,
+   "last_date": "2026-11-25",
    "next_level": 1797.0,
-   "dist_pct": 1.04,
+   "dist_pct": 1.83,
    "levels_below": [
     1797.0,
     1674.4,
@@ -4361,10 +4378,10 @@
   },
   {
    "symbol": "JKCEMENT",
-   "close": 5439.0,
-   "last_date": "2026-11-23",
+   "close": 5559.7,
+   "last_date": "2026-11-25",
    "next_level": 4693.0,
-   "dist_pct": 13.72,
+   "dist_pct": 15.59,
    "levels_below": [
     4693.0,
     4676.0,
@@ -4379,10 +4396,10 @@
   },
   {
    "symbol": "JBMA",
-   "close": 477.35,
-   "last_date": "2026-11-23",
+   "close": 469.6,
+   "last_date": "2026-11-25",
    "next_level": 465.0,
-   "dist_pct": 2.59,
+   "dist_pct": 0.98,
    "levels_below": [
     465.0,
     370.98,
@@ -4397,10 +4414,10 @@
   },
   {
    "symbol": "JKTYRE",
-   "close": 368.15,
-   "last_date": "2026-11-23",
+   "close": 366.55,
+   "last_date": "2026-11-25",
    "next_level": 296.75,
-   "dist_pct": 19.39,
+   "dist_pct": 19.04,
    "levels_below": [
     296.75,
     244.0,
@@ -4415,10 +4432,10 @@
   },
   {
    "symbol": "JMFINANCIL",
-   "close": 110.49,
-   "last_date": "2026-11-23",
+   "close": 109.67,
+   "last_date": "2026-11-25",
    "next_level": 103.0,
-   "dist_pct": 6.78,
+   "dist_pct": 6.08,
    "levels_below": [
     103.0,
     96.45,
@@ -4433,10 +4450,10 @@
   },
   {
    "symbol": "JSWCEMENT",
-   "close": 125.74,
-   "last_date": "2026-11-23",
+   "close": 126.88,
+   "last_date": "2026-11-25",
    "next_level": 109.62,
-   "dist_pct": 12.82,
+   "dist_pct": 13.6,
    "levels_below": [
     109.62,
     109.6,
@@ -4449,10 +4466,10 @@
   },
   {
    "symbol": "JSWENERGY",
-   "close": 502.55,
-   "last_date": "2026-11-23",
+   "close": 485.8,
+   "last_date": "2026-11-25",
    "next_level": 438.4,
-   "dist_pct": 12.76,
+   "dist_pct": 9.76,
    "levels_below": [
     438.4,
     427.75,
@@ -4467,10 +4484,10 @@
   },
   {
    "symbol": "JSWINFRA",
-   "close": 353.55,
-   "last_date": "2026-11-23",
+   "close": 357.65,
+   "last_date": "2026-11-25",
    "next_level": 302.5,
-   "dist_pct": 14.44,
+   "dist_pct": 15.42,
    "levels_below": [
     302.5,
     256.0,
@@ -4485,10 +4502,10 @@
   },
   {
    "symbol": "JSWSTEEL",
-   "close": 1311.9,
-   "last_date": "2026-11-23",
+   "close": 1302.5,
+   "last_date": "2026-11-25",
    "next_level": 1158.0,
-   "dist_pct": 11.73,
+   "dist_pct": 11.09,
    "levels_below": [
     1158.0,
     1102.5,
@@ -4503,10 +4520,10 @@
   },
   {
    "symbol": "JAINREC",
-   "close": 278.7,
-   "last_date": "2026-11-23",
+   "close": 279.85,
+   "last_date": "2026-11-25",
    "next_level": 264.3,
-   "dist_pct": 5.17,
+   "dist_pct": 5.56,
    "levels_below": [
     264.3
    ],
@@ -4517,10 +4534,10 @@
   },
   {
    "symbol": "JPPOWER",
-   "close": 13.24,
-   "last_date": "2026-11-23",
+   "close": 13.05,
+   "last_date": "2026-11-25",
    "next_level": 12.5,
-   "dist_pct": 5.59,
+   "dist_pct": 4.21,
    "levels_below": [
     12.5,
     12.36,
@@ -4535,10 +4552,10 @@
   },
   {
    "symbol": "J&KBANK",
-   "close": 146.73,
-   "last_date": "2026-11-23",
+   "close": 155.32,
+   "last_date": "2026-11-25",
    "next_level": 111.6,
-   "dist_pct": 23.94,
+   "dist_pct": 28.15,
    "levels_below": [
     111.6,
     108.0,
@@ -4553,10 +4570,10 @@
   },
   {
    "symbol": "JINDALSAW",
-   "close": 240.52,
-   "last_date": "2026-11-23",
+   "close": 243.57,
+   "last_date": "2026-11-25",
    "next_level": 227.05,
-   "dist_pct": 5.6,
+   "dist_pct": 6.78,
    "levels_below": [
     227.05,
     221.7,
@@ -4571,10 +4588,10 @@
   },
   {
    "symbol": "JSL",
-   "close": 724.85,
-   "last_date": "2026-11-23",
+   "close": 709.3,
+   "last_date": "2026-11-25",
    "next_level": 665.75,
-   "dist_pct": 8.15,
+   "dist_pct": 6.14,
    "levels_below": [
     665.75,
     652.25,
@@ -4589,10 +4606,10 @@
   },
   {
    "symbol": "JINDALSTEL",
-   "close": 1131.3,
-   "last_date": "2026-11-23",
+   "close": 1105.0,
+   "last_date": "2026-11-25",
    "next_level": 1000.8,
-   "dist_pct": 11.54,
+   "dist_pct": 9.43,
    "levels_below": [
     1000.8,
     977.1,
@@ -4607,10 +4624,10 @@
   },
   {
    "symbol": "JIOFIN",
-   "close": 219.7,
-   "last_date": "2026-11-23",
+   "close": 222.85,
+   "last_date": "2026-11-25",
    "next_level": 202.51,
-   "dist_pct": 7.82,
+   "dist_pct": 9.13,
    "levels_below": [
     202.51,
     198.65
@@ -4622,10 +4639,10 @@
   },
   {
    "symbol": "JUBLFOOD",
-   "close": 421.0,
-   "last_date": "2026-11-23",
+   "close": 429.8,
+   "last_date": "2026-11-25",
    "next_level": 397.8,
-   "dist_pct": 5.51,
+   "dist_pct": 7.45,
    "levels_below": [
     397.8
    ],
@@ -4636,10 +4653,10 @@
   },
   {
    "symbol": "JUBLINGREA",
-   "close": 559.2,
-   "last_date": "2026-11-23",
+   "close": 552.3,
+   "last_date": "2026-11-25",
    "next_level": 544.0,
-   "dist_pct": 2.72,
+   "dist_pct": 1.5,
    "levels_below": [
     544.0,
     540.0,
@@ -4654,10 +4671,10 @@
   },
   {
    "symbol": "JWL",
-   "close": 185.39,
-   "last_date": "2026-11-23",
+   "close": 222.46,
+   "last_date": "2026-11-25",
    "next_level": 169.08,
-   "dist_pct": 8.8,
+   "dist_pct": 24.0,
    "levels_below": [
     169.08,
     85.2,
@@ -4672,10 +4689,10 @@
   },
   {
    "symbol": "JYOTICNC",
-   "close": 1042.95,
-   "last_date": "2026-11-23",
+   "close": 1019.2,
+   "last_date": "2026-11-25",
    "next_level": 871.8,
-   "dist_pct": 16.41,
+   "dist_pct": 14.46,
    "levels_below": [
     871.8,
     738.9,
@@ -4689,10 +4706,10 @@
   },
   {
    "symbol": "KPRMILL",
-   "close": 1206.9,
-   "last_date": "2026-11-23",
+   "close": 1173.0,
+   "last_date": "2026-11-25",
    "next_level": 991.2,
-   "dist_pct": 17.87,
+   "dist_pct": 15.5,
    "levels_below": [
     991.2,
     883.15,
@@ -4707,10 +4724,10 @@
   },
   {
    "symbol": "KEI",
-   "close": 3800.6,
-   "last_date": "2026-11-23",
+   "close": 3652.0,
+   "last_date": "2026-11-25",
    "next_level": 3525.3,
-   "dist_pct": 7.24,
+   "dist_pct": 3.47,
    "levels_below": [
     3525.3,
     2424.0,
@@ -4725,10 +4742,10 @@
   },
   {
    "symbol": "KPITTECH",
-   "close": 525.5,
-   "last_date": "2026-11-23",
+   "close": 516.0,
+   "last_date": "2026-11-25",
    "next_level": 510.5,
-   "dist_pct": 2.85,
+   "dist_pct": 1.07,
    "levels_below": [
     510.5,
     470.1,
@@ -4742,10 +4759,10 @@
   },
   {
    "symbol": "KSB",
-   "close": 646.9,
-   "last_date": "2026-11-23",
+   "close": 645.4,
+   "last_date": "2026-11-25",
    "next_level": 626.0,
-   "dist_pct": 3.23,
+   "dist_pct": 3.01,
    "levels_below": [
     626.0,
     582.25,
@@ -4760,10 +4777,10 @@
   },
   {
    "symbol": "KAJARIACER",
-   "close": 1200.9,
-   "last_date": "2026-11-23",
+   "close": 1206.0,
+   "last_date": "2026-11-25",
    "next_level": 1087.9,
-   "dist_pct": 9.41,
+   "dist_pct": 9.79,
    "levels_below": [
     1087.9,
     1060.1,
@@ -4778,10 +4795,10 @@
   },
   {
    "symbol": "KPIL",
-   "close": 1312.6,
-   "last_date": "2026-11-23",
+   "close": 1309.9,
+   "last_date": "2026-11-25",
    "next_level": 1251.9,
-   "dist_pct": 4.62,
+   "dist_pct": 4.43,
    "levels_below": [
     1251.9,
     1210.1,
@@ -4796,10 +4813,10 @@
   },
   {
    "symbol": "KALYANKJIL",
-   "close": 652.9,
-   "last_date": "2026-11-23",
+   "close": 636.35,
+   "last_date": "2026-11-25",
    "next_level": 490.6,
-   "dist_pct": 24.86,
+   "dist_pct": 22.9,
    "levels_below": [
     490.6,
     348.35,
@@ -4814,10 +4831,10 @@
   },
   {
    "symbol": "KARURVYSYA",
-   "close": 384.1,
-   "last_date": "2026-11-23",
+   "close": 378.75,
+   "last_date": "2026-11-25",
    "next_level": 326.1,
-   "dist_pct": 15.1,
+   "dist_pct": 13.9,
    "levels_below": [
     326.1,
     311.4,
@@ -4832,10 +4849,10 @@
   },
   {
    "symbol": "KAYNES",
-   "close": 2809.0,
-   "last_date": "2026-11-23",
+   "close": 2698.0,
+   "last_date": "2026-11-25",
    "next_level": 2424.0,
-   "dist_pct": 13.71,
+   "dist_pct": 10.16,
    "levels_below": [
     2424.0,
     2275.85,
@@ -4850,8 +4867,8 @@
   },
   {
    "symbol": "KEC",
-   "close": 295.25,
-   "last_date": "2026-11-23",
+   "close": 297.65,
+   "last_date": "2026-11-25",
    "next_level": null,
    "dist_pct": null,
    "levels_below": [],
@@ -4864,10 +4881,10 @@
   },
   {
    "symbol": "KFINTECH",
-   "close": 929.75,
-   "last_date": "2026-11-23",
+   "close": 934.0,
+   "last_date": "2026-11-25",
    "next_level": 784.0,
-   "dist_pct": 15.68,
+   "dist_pct": 16.06,
    "levels_below": [
     784.0,
     699.0,
@@ -4882,10 +4899,10 @@
   },
   {
    "symbol": "KIRLOSBROS",
-   "close": 1570.6,
-   "last_date": "2026-11-23",
+   "close": 1562.6,
+   "last_date": "2026-11-25",
    "next_level": 1500.0,
-   "dist_pct": 4.5,
+   "dist_pct": 4.01,
    "levels_below": [
     1500.0,
     1335.0,
@@ -4900,10 +4917,10 @@
   },
   {
    "symbol": "KIRLOSENG",
-   "close": 1718.9,
-   "last_date": "2026-11-23",
+   "close": 1710.6,
+   "last_date": "2026-11-25",
    "next_level": 1464.5,
-   "dist_pct": 14.8,
+   "dist_pct": 14.39,
    "levels_below": [
     1464.5,
     1254.9,
@@ -4918,10 +4935,10 @@
   },
   {
    "symbol": "KOTAKBANK",
-   "close": 502.85,
-   "last_date": "2026-11-23",
+   "close": 509.0,
+   "last_date": "2026-11-25",
    "next_level": 394.7,
-   "dist_pct": 21.51,
+   "dist_pct": 22.46,
    "levels_below": [
     394.7,
     368.4,
@@ -4936,10 +4953,10 @@
   },
   {
    "symbol": "KIMS",
-   "close": 794.15,
-   "last_date": "2026-11-23",
+   "close": 788.95,
+   "last_date": "2026-11-25",
    "next_level": 655.05,
-   "dist_pct": 17.52,
+   "dist_pct": 16.97,
    "levels_below": [
     655.05,
     610.8,
@@ -4954,10 +4971,10 @@
   },
   {
    "symbol": "LTF",
-   "close": 274.0,
-   "last_date": "2026-11-23",
+   "close": 283.95,
+   "last_date": "2026-11-25",
    "next_level": 229.2,
-   "dist_pct": 16.35,
+   "dist_pct": 19.28,
    "levels_below": [
     229.2,
     194.4,
@@ -4972,10 +4989,10 @@
   },
   {
    "symbol": "LTTS",
-   "close": 4222.6,
-   "last_date": "2026-11-23",
+   "close": 4178.0,
+   "last_date": "2026-11-25",
    "next_level": 3051.8,
-   "dist_pct": 27.73,
+   "dist_pct": 26.96,
    "levels_below": [
     3051.8,
     3030.0,
@@ -4989,10 +5006,10 @@
   },
   {
    "symbol": "LGEINDIA",
-   "close": 1777.5,
-   "last_date": "2026-11-23",
+   "close": 1818.4,
+   "last_date": "2026-11-25",
    "next_level": 1588.0,
-   "dist_pct": 10.66,
+   "dist_pct": 12.67,
    "levels_below": [
     1588.0,
     1484.8,
@@ -5007,10 +5024,10 @@
   },
   {
    "symbol": "LICHSGFIN",
-   "close": 606.0,
-   "last_date": "2026-11-23",
+   "close": 598.0,
+   "last_date": "2026-11-25",
    "next_level": 485.2,
-   "dist_pct": 19.93,
+   "dist_pct": 18.86,
    "levels_below": [
     485.2,
     458.9,
@@ -5025,10 +5042,10 @@
   },
   {
    "symbol": "LTFOODS",
-   "close": 423.95,
-   "last_date": "2026-11-23",
+   "close": 423.1,
+   "last_date": "2026-11-25",
    "next_level": 362.95,
-   "dist_pct": 14.39,
+   "dist_pct": 14.22,
    "levels_below": [
     362.95,
     359.1,
@@ -5043,10 +5060,10 @@
   },
   {
    "symbol": "LTM",
-   "close": 4215.0,
-   "last_date": "2026-11-23",
+   "close": 4270.0,
+   "last_date": "2026-11-25",
    "next_level": 3926.0,
-   "dist_pct": 6.86,
+   "dist_pct": 8.06,
    "levels_below": [
     3926.0,
     3905.6,
@@ -5059,10 +5076,10 @@
   },
   {
    "symbol": "LT",
-   "close": 4099.9,
-   "last_date": "2026-11-23",
+   "close": 4156.0,
+   "last_date": "2026-11-25",
    "next_level": 3592.9,
-   "dist_pct": 12.37,
+   "dist_pct": 13.55,
    "levels_below": [
     3592.9,
     3288.1,
@@ -5077,10 +5094,10 @@
   },
   {
    "symbol": "LAURUSLABS",
-   "close": 2370.7,
-   "last_date": "2026-11-23",
+   "close": 2460.0,
+   "last_date": "2026-11-25",
    "next_level": 1933.5,
-   "dist_pct": 18.44,
+   "dist_pct": 21.4,
    "levels_below": [
     1933.5,
     1769.4,
@@ -5095,10 +5112,10 @@
   },
   {
    "symbol": "LEMONTREE",
-   "close": 127.63,
-   "last_date": "2026-11-23",
+   "close": 124.8,
+   "last_date": "2026-11-25",
    "next_level": 104.35,
-   "dist_pct": 18.24,
+   "dist_pct": 16.39,
    "levels_below": [
     104.35,
     100.88,
@@ -5113,10 +5130,10 @@
   },
   {
    "symbol": "LENSKART",
-   "close": 714.5,
-   "last_date": "2026-11-23",
+   "close": 720.55,
+   "last_date": "2026-11-25",
    "next_level": 615.2,
-   "dist_pct": 13.9,
+   "dist_pct": 14.62,
    "levels_below": [
     615.2,
     482.15,
@@ -5130,10 +5147,10 @@
   },
   {
    "symbol": "LICI",
-   "close": 407.3,
-   "last_date": "2026-11-23",
+   "close": 408.35,
+   "last_date": "2026-11-25",
    "next_level": 377.1,
-   "dist_pct": 7.41,
+   "dist_pct": 7.65,
    "levels_below": [
     377.1,
     360.75,
@@ -5148,10 +5165,10 @@
   },
   {
    "symbol": "LINDEINDIA",
-   "close": 6961.5,
-   "last_date": "2026-11-23",
+   "close": 6950.0,
+   "last_date": "2026-11-25",
    "next_level": 5544.0,
-   "dist_pct": 20.36,
+   "dist_pct": 20.23,
    "levels_below": [
     5544.0,
     5242.4,
@@ -5166,28 +5183,28 @@
   },
   {
    "symbol": "LLOYDSME",
-   "close": 1700.1,
-   "last_date": "2026-11-23",
-   "next_level": 1670.0,
-   "dist_pct": 1.77,
+   "close": 1606.0,
+   "last_date": "2026-11-25",
+   "next_level": 1119.9,
+   "dist_pct": 30.27,
    "levels_below": [
-    1670.0,
-    1636.1,
     1119.9,
     1042.9,
-    1015.0
+    1015.0,
+    942.15,
+    907.95
    ],
    "levels_above": [],
-   "buys": 5,
-   "invalid": 1,
-   "signal_today": false
+   "buys": 6,
+   "invalid": 2,
+   "signal_today": true
   },
   {
    "symbol": "LODHA",
-   "close": 1219.0,
-   "last_date": "2026-11-23",
+   "close": 1202.0,
+   "last_date": "2026-11-25",
    "next_level": 937.1,
-   "dist_pct": 23.13,
+   "dist_pct": 22.04,
    "levels_below": [
     937.1,
     848.0,
@@ -5202,10 +5219,10 @@
   },
   {
    "symbol": "LUPIN",
-   "close": 1975.6,
-   "last_date": "2026-11-23",
+   "close": 2003.8,
+   "last_date": "2026-11-25",
    "next_level": 1892.9,
-   "dist_pct": 4.19,
+   "dist_pct": 5.53,
    "levels_below": [
     1892.9,
     1875.0,
@@ -5220,10 +5237,10 @@
   },
   {
    "symbol": "MMTC",
-   "close": 50.81,
-   "last_date": "2026-11-23",
+   "close": 50.9,
+   "last_date": "2026-11-25",
    "next_level": 49.41,
-   "dist_pct": 2.76,
+   "dist_pct": 2.93,
    "levels_below": [
     49.41,
     44.5,
@@ -5238,10 +5255,10 @@
   },
   {
    "symbol": "MRF",
-   "close": 129605.0,
-   "last_date": "2026-11-23",
+   "close": 128740.0,
+   "last_date": "2026-11-25",
    "next_level": 115190.0,
-   "dist_pct": 11.12,
+   "dist_pct": 10.53,
    "levels_below": [
     115190.0,
     108001.0,
@@ -5256,10 +5273,10 @@
   },
   {
    "symbol": "MTARTECH",
-   "close": 5659.0,
-   "last_date": "2026-11-23",
+   "close": 5646.5,
+   "last_date": "2026-11-25",
    "next_level": 5194.0,
-   "dist_pct": 8.22,
+   "dist_pct": 8.01,
    "levels_below": [
     5194.0,
     3309.0,
@@ -5274,10 +5291,10 @@
   },
   {
    "symbol": "MGL",
-   "close": 1088.9,
-   "last_date": "2026-11-23",
+   "close": 1071.9,
+   "last_date": "2026-11-25",
    "next_level": 1000.0,
-   "dist_pct": 8.16,
+   "dist_pct": 6.71,
    "levels_below": [
     1000.0,
     900.0,
@@ -5292,10 +5309,10 @@
   },
   {
    "symbol": "M&MFIN",
-   "close": 286.85,
-   "last_date": "2026-11-23",
+   "close": 292.45,
+   "last_date": "2026-11-25",
    "next_level": 253.4,
-   "dist_pct": 11.66,
+   "dist_pct": 13.35,
    "levels_below": [
     253.4,
     246.35,
@@ -5310,10 +5327,10 @@
   },
   {
    "symbol": "M&M",
-   "close": 3487.4,
-   "last_date": "2026-11-23",
+   "close": 3509.5,
+   "last_date": "2026-11-25",
    "next_level": 2744.3,
-   "dist_pct": 21.31,
+   "dist_pct": 21.8,
    "levels_below": [
     2744.3,
     2425.0,
@@ -5328,10 +5345,10 @@
   },
   {
    "symbol": "MANAPPURAM",
-   "close": 271.0,
-   "last_date": "2026-11-23",
+   "close": 267.5,
+   "last_date": "2026-11-25",
    "next_level": 245.15,
-   "dist_pct": 9.54,
+   "dist_pct": 8.36,
    "levels_below": [
     245.15,
     219.39,
@@ -5346,10 +5363,10 @@
   },
   {
    "symbol": "MRPL",
-   "close": 175.36,
-   "last_date": "2026-11-23",
+   "close": 164.68,
+   "last_date": "2026-11-25",
    "next_level": 159.0,
-   "dist_pct": 9.33,
+   "dist_pct": 3.45,
    "levels_below": [
     159.0,
     144.3,
@@ -5364,10 +5381,10 @@
   },
   {
    "symbol": "MANKIND",
-   "close": 2615.1,
-   "last_date": "2026-11-23",
+   "close": 2685.0,
+   "last_date": "2026-11-25",
    "next_level": 2196.1,
-   "dist_pct": 16.02,
+   "dist_pct": 18.21,
    "levels_below": [
     2196.1,
     1909.7,
@@ -5382,10 +5399,10 @@
   },
   {
    "symbol": "MARICO",
-   "close": 919.5,
-   "last_date": "2026-11-23",
+   "close": 935.2,
+   "last_date": "2026-11-25",
    "next_level": 756.85,
-   "dist_pct": 17.69,
+   "dist_pct": 19.07,
    "levels_below": [
     756.85,
     723.55,
@@ -5400,10 +5417,10 @@
   },
   {
    "symbol": "MARUTI",
-   "close": 14010.0,
-   "last_date": "2026-11-23",
+   "close": 14200.0,
+   "last_date": "2026-11-25",
    "next_level": 10985.0,
-   "dist_pct": 21.59,
+   "dist_pct": 22.64,
    "levels_below": [
     10985.0,
     10725.0,
@@ -5418,10 +5435,10 @@
   },
   {
    "symbol": "MFSL",
-   "close": 1431.9,
-   "last_date": "2026-11-23",
+   "close": 1444.0,
+   "last_date": "2026-11-25",
    "next_level": 1172.6,
-   "dist_pct": 18.11,
+   "dist_pct": 18.8,
    "levels_below": [
     1172.6,
     1085.0,
@@ -5436,10 +5453,10 @@
   },
   {
    "symbol": "MAXHEALTH",
-   "close": 1089.55,
-   "last_date": "2026-11-23",
+   "close": 1076.3,
+   "last_date": "2026-11-25",
    "next_level": 797.0,
-   "dist_pct": 26.85,
+   "dist_pct": 25.95,
    "levels_below": [
     797.0,
     743.1,
@@ -5454,10 +5471,10 @@
   },
   {
    "symbol": "MAZDOCK",
-   "close": 1801.0,
-   "last_date": "2026-11-23",
+   "close": 1799.0,
+   "last_date": "2026-11-25",
    "next_level": 1687.5,
-   "dist_pct": 6.3,
+   "dist_pct": 6.2,
    "levels_below": [
     1687.5,
     1200.0,
@@ -5472,10 +5489,10 @@
   },
   {
    "symbol": "MEESHO",
-   "close": 253.11,
-   "last_date": "2026-11-23",
+   "close": 252.34,
+   "last_date": "2026-11-25",
    "next_level": 208.2,
-   "dist_pct": 17.74,
+   "dist_pct": 17.49,
    "levels_below": [
     208.2,
     173.5,
@@ -5489,10 +5506,10 @@
   },
   {
    "symbol": "MINDACORP",
-   "close": 727.2,
-   "last_date": "2026-11-23",
+   "close": 717.85,
+   "last_date": "2026-11-25",
    "next_level": 580.0,
-   "dist_pct": 20.24,
+   "dist_pct": 19.2,
    "levels_below": [
     580.0,
     502.0,
@@ -5507,10 +5524,10 @@
   },
   {
    "symbol": "MSUMI",
-   "close": 41.65,
-   "last_date": "2026-11-23",
+   "close": 42.12,
+   "last_date": "2026-11-25",
    "next_level": 32.7,
-   "dist_pct": 21.49,
+   "dist_pct": 22.36,
    "levels_below": [
     32.7,
     31.33,
@@ -5525,10 +5542,10 @@
   },
   {
    "symbol": "MOTILALOFS",
-   "close": 1235.0,
-   "last_date": "2026-11-23",
+   "close": 1230.1,
+   "last_date": "2026-11-25",
    "next_level": 886.75,
-   "dist_pct": 28.2,
+   "dist_pct": 27.91,
    "levels_below": [
     886.75,
     835.1,
@@ -5543,10 +5560,10 @@
   },
   {
    "symbol": "MPHASIS",
-   "close": 2468.4,
-   "last_date": "2026-11-23",
+   "close": 2532.9,
+   "last_date": "2026-11-25",
    "next_level": 2144.8,
-   "dist_pct": 13.11,
+   "dist_pct": 15.32,
    "levels_below": [
     2144.8,
     2121.1,
@@ -5561,10 +5578,10 @@
   },
   {
    "symbol": "MCX",
-   "close": 3581.6,
-   "last_date": "2026-11-23",
+   "close": 3565.0,
+   "last_date": "2026-11-25",
    "next_level": 2985.0,
-   "dist_pct": 16.66,
+   "dist_pct": 16.27,
    "levels_below": [
     2985.0,
     2565.5,
@@ -5579,10 +5596,10 @@
   },
   {
    "symbol": "MUTHOOTFIN",
-   "close": 2543.3,
-   "last_date": "2026-11-23",
+   "close": 2549.6,
+   "last_date": "2026-11-25",
    "next_level": 2305.0,
-   "dist_pct": 9.37,
+   "dist_pct": 9.59,
    "levels_below": [
     2305.0,
     2027.0,
@@ -5597,10 +5614,10 @@
   },
   {
    "symbol": "NATCOPHARM",
-   "close": 806.55,
-   "last_date": "2026-11-23",
+   "close": 800.85,
+   "last_date": "2026-11-25",
    "next_level": 773.6,
-   "dist_pct": 4.09,
+   "dist_pct": 3.4,
    "levels_below": [
     773.6,
     726.8,
@@ -5615,10 +5632,10 @@
   },
   {
    "symbol": "NBCC",
-   "close": 77.65,
-   "last_date": "2026-11-23",
+   "close": 75.94,
+   "last_date": "2026-11-25",
    "next_level": 67.02,
-   "dist_pct": 13.69,
+   "dist_pct": 11.75,
    "levels_below": [
     67.02,
     48.33,
@@ -5633,10 +5650,10 @@
   },
   {
    "symbol": "NCC",
-   "close": 129.28,
-   "last_date": "2026-11-23",
+   "close": 129.17,
+   "last_date": "2026-11-25",
    "next_level": 113.5,
-   "dist_pct": 12.21,
+   "dist_pct": 12.13,
    "levels_below": [
     113.5,
     99.65,
@@ -5651,10 +5668,10 @@
   },
   {
    "symbol": "NHPC",
-   "close": 75.36,
-   "last_date": "2026-11-23",
+   "close": 75.65,
+   "last_date": "2026-11-25",
    "next_level": 68.79,
-   "dist_pct": 8.72,
+   "dist_pct": 9.07,
    "levels_below": [
     68.79,
     48.4,
@@ -5669,10 +5686,10 @@
   },
   {
    "symbol": "NLCINDIA",
-   "close": 227.16,
-   "last_date": "2026-11-23",
+   "close": 226.1,
+   "last_date": "2026-11-25",
    "next_level": 222.3,
-   "dist_pct": 2.14,
+   "dist_pct": 1.68,
    "levels_below": [
     222.3,
     222.0,
@@ -5687,10 +5704,10 @@
   },
   {
    "symbol": "NMDC",
-   "close": 67.4,
-   "last_date": "2026-11-23",
+   "close": 66.69,
+   "last_date": "2026-11-25",
    "next_level": 65.15,
-   "dist_pct": 3.34,
+   "dist_pct": 2.31,
    "levels_below": [
     65.15,
     62.0,
@@ -5705,10 +5722,10 @@
   },
   {
    "symbol": "NSLNISP",
-   "close": 38.5,
-   "last_date": "2026-11-23",
+   "close": 38.06,
+   "last_date": "2026-11-25",
    "next_level": 36.78,
-   "dist_pct": 4.47,
+   "dist_pct": 3.36,
    "levels_below": [
     36.78,
     33.01,
@@ -5723,10 +5740,10 @@
   },
   {
    "symbol": "NTPCGREEN",
-   "close": 82.3,
-   "last_date": "2026-11-23",
+   "close": 81.7,
+   "last_date": "2026-11-25",
    "next_level": 79.0,
-   "dist_pct": 4.01,
+   "dist_pct": 3.3,
    "levels_below": [
     79.0
    ],
@@ -5737,10 +5754,10 @@
   },
   {
    "symbol": "NTPC",
-   "close": 315.45,
-   "last_date": "2026-11-23",
+   "close": 318.0,
+   "last_date": "2026-11-25",
    "next_level": 292.05,
-   "dist_pct": 7.42,
+   "dist_pct": 8.16,
    "levels_below": [
     292.05,
     227.75,
@@ -5755,10 +5772,10 @@
   },
   {
    "symbol": "NH",
-   "close": 1974.2,
-   "last_date": "2026-11-23",
+   "close": 2003.7,
+   "last_date": "2026-11-25",
    "next_level": 1622.8,
-   "dist_pct": 17.8,
+   "dist_pct": 19.01,
    "levels_below": [
     1622.8,
     1589.0,
@@ -5773,28 +5790,28 @@
   },
   {
    "symbol": "NATIONALUM",
-   "close": 298.65,
-   "last_date": "2026-11-23",
-   "next_level": 293.0,
-   "dist_pct": 1.89,
+   "close": 287.8,
+   "last_date": "2026-11-25",
+   "next_level": 198.68,
+   "dist_pct": 30.97,
    "levels_below": [
-    293.0,
     198.68,
     183.86,
     179.93,
-    176.34
+    176.34,
+    149.0
    ],
    "levels_above": [],
-   "buys": 9,
+   "buys": 10,
    "invalid": 3,
-   "signal_today": false
+   "signal_today": true
   },
   {
    "symbol": "NAVA",
-   "close": 550.15,
-   "last_date": "2026-11-23",
+   "close": 550.95,
+   "last_date": "2026-11-25",
    "next_level": 456.0,
-   "dist_pct": 17.11,
+   "dist_pct": 17.23,
    "levels_below": [
     456.0,
     421.0,
@@ -5809,10 +5826,10 @@
   },
   {
    "symbol": "NAVINFLUOR",
-   "close": 10154.0,
-   "last_date": "2026-11-23",
+   "close": 9956.0,
+   "last_date": "2026-11-25",
    "next_level": 7510.5,
-   "dist_pct": 26.03,
+   "dist_pct": 24.56,
    "levels_below": [
     7510.5,
     7368.0,
@@ -5827,10 +5844,10 @@
   },
   {
    "symbol": "NESTLEIND",
-   "close": 1305.9,
-   "last_date": "2026-11-23",
+   "close": 1358.5,
+   "last_date": "2026-11-25",
    "next_level": 1147.4,
-   "dist_pct": 12.14,
+   "dist_pct": 15.54,
    "levels_below": [
     1147.4,
     1145.0,
@@ -5845,10 +5862,10 @@
   },
   {
    "symbol": "NETWEB",
-   "close": 4010.6,
-   "last_date": "2026-11-23",
+   "close": 4010.8,
+   "last_date": "2026-11-25",
    "next_level": 3716.1,
-   "dist_pct": 7.34,
+   "dist_pct": 7.35,
    "levels_below": [
     3716.1,
     3671.1,
@@ -5863,10 +5880,10 @@
   },
   {
    "symbol": "NEULANDLAB",
-   "close": 20550.0,
-   "last_date": "2026-11-23",
+   "close": 20968.0,
+   "last_date": "2026-11-25",
    "next_level": 18120.0,
-   "dist_pct": 11.82,
+   "dist_pct": 13.58,
    "levels_below": [
     18120.0,
     16401.0,
@@ -5881,10 +5898,10 @@
   },
   {
    "symbol": "NAM-INDIA",
-   "close": 1035.5,
-   "last_date": "2026-11-23",
+   "close": 1030.0,
+   "last_date": "2026-11-25",
    "next_level": 881.6,
-   "dist_pct": 14.86,
+   "dist_pct": 14.41,
    "levels_below": [
     881.6,
     796.3,
@@ -5899,10 +5916,10 @@
   },
   {
    "symbol": "NUVAMA",
-   "close": 1758.3,
-   "last_date": "2026-11-23",
+   "close": 1795.4,
+   "last_date": "2026-11-25",
    "next_level": 1595.0,
-   "dist_pct": 9.29,
+   "dist_pct": 11.16,
    "levels_below": [
     1595.0,
     1578.6,
@@ -5917,10 +5934,10 @@
   },
   {
    "symbol": "NUVOCO",
-   "close": 356.15,
-   "last_date": "2026-11-23",
+   "close": 363.35,
+   "last_date": "2026-11-25",
    "next_level": 312.2,
-   "dist_pct": 12.34,
+   "dist_pct": 14.08,
    "levels_below": [
     312.2,
     307.95,
@@ -5935,10 +5952,10 @@
   },
   {
    "symbol": "OBEROIRLTY",
-   "close": 1860.0,
-   "last_date": "2026-11-23",
+   "close": 1868.5,
+   "last_date": "2026-11-25",
    "next_level": 1569.0,
-   "dist_pct": 15.65,
+   "dist_pct": 16.03,
    "levels_below": [
     1569.0,
     1391.2,
@@ -5953,10 +5970,10 @@
   },
   {
    "symbol": "ONGC",
-   "close": 222.85,
-   "last_date": "2026-11-23",
+   "close": 222.0,
+   "last_date": "2026-11-25",
    "next_level": 218.53,
-   "dist_pct": 1.94,
+   "dist_pct": 1.56,
    "levels_below": [
     218.53,
     205.0,
@@ -5971,10 +5988,10 @@
   },
   {
    "symbol": "OIL",
-   "close": 422.5,
-   "last_date": "2026-11-23",
+   "close": 425.0,
+   "last_date": "2026-11-25",
    "next_level": 404.1,
-   "dist_pct": 4.36,
+   "dist_pct": 4.92,
    "levels_below": [
     404.1,
     395.6,
@@ -5989,10 +6006,10 @@
   },
   {
    "symbol": "OLAELEC",
-   "close": 32.06,
-   "last_date": "2026-11-23",
+   "close": 31.73,
+   "last_date": "2026-11-25",
    "next_level": 29.18,
-   "dist_pct": 8.98,
+   "dist_pct": 8.04,
    "levels_below": [
     29.18,
     22.25
@@ -6004,10 +6021,10 @@
   },
   {
    "symbol": "OLECTRA",
-   "close": 995.9,
-   "last_date": "2026-11-23",
+   "close": 976.6,
+   "last_date": "2026-11-25",
    "next_level": 940.0,
-   "dist_pct": 5.61,
+   "dist_pct": 3.75,
    "levels_below": [
     940.0,
     866.6,
@@ -6021,10 +6038,10 @@
   },
   {
    "symbol": "PAYTM",
-   "close": 1730.6,
-   "last_date": "2026-11-23",
+   "close": 1719.0,
+   "last_date": "2026-11-25",
    "next_level": 1558.8,
-   "dist_pct": 9.93,
+   "dist_pct": 9.32,
    "levels_below": [
     1558.8,
     1014.0,
@@ -6039,10 +6056,10 @@
   },
   {
    "symbol": "ONESOURCE",
-   "close": 1601.8,
-   "last_date": "2026-11-23",
+   "close": 1602.6,
+   "last_date": "2026-11-25",
    "next_level": 1320.6,
-   "dist_pct": 17.56,
+   "dist_pct": 17.6,
    "levels_below": [
     1320.6,
     1231.0,
@@ -6055,28 +6072,28 @@
   },
   {
    "symbol": "OFSS",
-   "close": 9675.0,
-   "last_date": "2026-11-23",
-   "next_level": 9540.0,
-   "dist_pct": 1.4,
+   "close": 9275.0,
+   "last_date": "2026-11-25",
+   "next_level": 9050.0,
+   "dist_pct": 2.43,
    "levels_below": [
-    9540.0,
     9050.0,
     8646.5,
     6234.5,
-    3957.75
+    3957.75,
+    3868.8
    ],
    "levels_above": [],
-   "buys": 15,
+   "buys": 16,
    "invalid": 2,
-   "signal_today": false
+   "signal_today": true
   },
   {
    "symbol": "POLICYBZR",
-   "close": 1089.1,
-   "last_date": "2026-11-23",
+   "close": 1123.8,
+   "last_date": "2026-11-25",
    "next_level": 916.0,
-   "dist_pct": 15.89,
+   "dist_pct": 18.49,
    "levels_below": [
     916.0,
     725.25,
@@ -6091,28 +6108,28 @@
   },
   {
    "symbol": "PCBL",
-   "close": 266.15,
-   "last_date": "2026-11-23",
-   "next_level": 262.85,
-   "dist_pct": 1.24,
+   "close": 263.05,
+   "last_date": "2026-11-25",
+   "next_level": 226.5,
+   "dist_pct": 13.89,
    "levels_below": [
-    262.85,
     226.5,
     209.0,
     182.0,
-    151.25
+    151.25,
+    108.7
    ],
    "levels_above": [],
-   "buys": 16,
+   "buys": 17,
    "invalid": 1,
-   "signal_today": false
+   "signal_today": true
   },
   {
    "symbol": "PGEL",
-   "close": 586.8,
-   "last_date": "2026-11-23",
+   "close": 584.0,
+   "last_date": "2026-11-25",
    "next_level": 454.5,
-   "dist_pct": 22.55,
+   "dist_pct": 22.17,
    "levels_below": [
     454.5,
     451.6,
@@ -6127,8 +6144,8 @@
   },
   {
    "symbol": "PIIND",
-   "close": 1571.0,
-   "last_date": "2026-11-23",
+   "close": 1576.0,
+   "last_date": "2026-11-25",
    "next_level": null,
    "dist_pct": null,
    "levels_below": [],
@@ -6139,10 +6156,10 @@
   },
   {
    "symbol": "PNBHOUSING",
-   "close": 1180.2,
-   "last_date": "2026-11-23",
+   "close": 1183.3,
+   "last_date": "2026-11-25",
    "next_level": 1052.7,
-   "dist_pct": 10.8,
+   "dist_pct": 11.04,
    "levels_below": [
     1052.7,
     1024.2,
@@ -6157,10 +6174,10 @@
   },
   {
    "symbol": "PTCIL",
-   "close": 24425.0,
-   "last_date": "2026-11-23",
+   "close": 24380.0,
+   "last_date": "2026-11-25",
    "next_level": 23095.0,
-   "dist_pct": 5.45,
+   "dist_pct": 5.27,
    "levels_below": [
     23095.0,
     21510.0,
@@ -6175,10 +6192,10 @@
   },
   {
    "symbol": "PVRINOX",
-   "close": 1699.7,
-   "last_date": "2026-11-23",
+   "close": 1709.3,
+   "last_date": "2026-11-25",
    "next_level": 1181.2,
-   "dist_pct": 30.51,
+   "dist_pct": 30.9,
    "levels_below": [
     1181.2,
     1125.7,
@@ -6193,10 +6210,10 @@
   },
   {
    "symbol": "PAGEIND",
-   "close": 30100.0,
-   "last_date": "2026-11-23",
+   "close": 30805.0,
+   "last_date": "2026-11-25",
    "next_level": 29805.0,
-   "dist_pct": 0.98,
+   "dist_pct": 3.25,
    "levels_below": [
     29805.0
    ],
@@ -6207,10 +6224,10 @@
   },
   {
    "symbol": "PARADEEP",
-   "close": 141.11,
-   "last_date": "2026-11-23",
+   "close": 136.79,
+   "last_date": "2026-11-25",
    "next_level": 119.81,
-   "dist_pct": 15.09,
+   "dist_pct": 12.41,
    "levels_below": [
     119.81,
     115.35,
@@ -6225,10 +6242,10 @@
   },
   {
    "symbol": "PATANJALI",
-   "close": 407.0,
-   "last_date": "2026-11-23",
+   "close": 407.05,
+   "last_date": "2026-11-25",
    "next_level": 336.4,
-   "dist_pct": 17.35,
+   "dist_pct": 17.36,
    "levels_below": [
     336.4,
     335.75,
@@ -6243,10 +6260,10 @@
   },
   {
    "symbol": "PERSISTENT",
-   "close": 6282.5,
-   "last_date": "2026-11-23",
+   "close": 6120.0,
+   "last_date": "2026-11-25",
    "next_level": 5162.0,
-   "dist_pct": 17.84,
+   "dist_pct": 15.65,
    "levels_below": [
     5162.0,
     4244.5,
@@ -6261,10 +6278,10 @@
   },
   {
    "symbol": "PETRONET",
-   "close": 326.05,
-   "last_date": "2026-11-23",
+   "close": 327.0,
+   "last_date": "2026-11-25",
    "next_level": 279.35,
-   "dist_pct": 14.32,
+   "dist_pct": 14.57,
    "levels_below": [
     279.35,
     278.25,
@@ -6279,10 +6296,10 @@
   },
   {
    "symbol": "PHOENIXLTD",
-   "close": 2276.2,
-   "last_date": "2026-11-23",
+   "close": 2285.5,
+   "last_date": "2026-11-25",
    "next_level": 1771.2,
-   "dist_pct": 22.19,
+   "dist_pct": 22.5,
    "levels_below": [
     1771.2,
     1675.0,
@@ -6297,10 +6314,10 @@
   },
   {
    "symbol": "PWL",
-   "close": 139.76,
-   "last_date": "2026-11-23",
+   "close": 135.66,
+   "last_date": "2026-11-25",
    "next_level": 117.42,
-   "dist_pct": 15.98,
+   "dist_pct": 13.45,
    "levels_below": [
     117.42,
     112.39,
@@ -6314,10 +6331,10 @@
   },
   {
    "symbol": "PIDILITIND",
-   "close": 1594.2,
-   "last_date": "2026-11-23",
+   "close": 1616.9,
+   "last_date": "2026-11-25",
    "next_level": 1342.3,
-   "dist_pct": 15.8,
+   "dist_pct": 16.98,
    "levels_below": [
     1342.3,
     1259.0,
@@ -6332,10 +6349,10 @@
   },
   {
    "symbol": "PINELABS",
-   "close": 160.46,
-   "last_date": "2026-11-23",
+   "close": 161.25,
+   "last_date": "2026-11-25",
    "next_level": 149.76,
-   "dist_pct": 6.67,
+   "dist_pct": 7.13,
    "levels_below": [
     149.76,
     138.29,
@@ -6348,10 +6365,10 @@
   },
   {
    "symbol": "PIRAMALFIN",
-   "close": 1970.2,
-   "last_date": "2026-11-23",
+   "close": 1982.8,
+   "last_date": "2026-11-25",
    "next_level": 1784.1,
-   "dist_pct": 9.45,
+   "dist_pct": 10.02,
    "levels_below": [
     1784.1,
     1781.2,
@@ -6365,10 +6382,10 @@
   },
   {
    "symbol": "PPLPHARMA",
-   "close": 236.89,
-   "last_date": "2026-11-23",
+   "close": 232.54,
+   "last_date": "2026-11-25",
    "next_level": 185.02,
-   "dist_pct": 21.9,
+   "dist_pct": 20.44,
    "levels_below": [
     185.02,
     158.1,
@@ -6383,10 +6400,10 @@
   },
   {
    "symbol": "POLYMED",
-   "close": 1628.4,
-   "last_date": "2026-11-23",
+   "close": 1636.8,
+   "last_date": "2026-11-25",
    "next_level": 1401.5,
-   "dist_pct": 13.93,
+   "dist_pct": 14.38,
    "levels_below": [
     1401.5,
     1300.0,
@@ -6401,10 +6418,10 @@
   },
   {
    "symbol": "POLYCAB",
-   "close": 7430.0,
-   "last_date": "2026-11-23",
+   "close": 7379.0,
+   "last_date": "2026-11-25",
    "next_level": 6690.5,
-   "dist_pct": 9.95,
+   "dist_pct": 9.33,
    "levels_below": [
     6690.5,
     6663.0,
@@ -6419,10 +6436,10 @@
   },
   {
    "symbol": "POONAWALLA",
-   "close": 517.4,
-   "last_date": "2026-11-23",
+   "close": 513.45,
+   "last_date": "2026-11-25",
    "next_level": 395.15,
-   "dist_pct": 23.63,
+   "dist_pct": 23.04,
    "levels_below": [
     395.15,
     370.05,
@@ -6437,10 +6454,10 @@
   },
   {
    "symbol": "PFC",
-   "close": 324.25,
-   "last_date": "2026-11-23",
+   "close": 333.8,
+   "last_date": "2026-11-25",
    "next_level": 310.3,
-   "dist_pct": 4.3,
+   "dist_pct": 7.04,
    "levels_below": [
     310.3,
     225.5,
@@ -6455,10 +6472,10 @@
   },
   {
    "symbol": "POWERGRID",
-   "close": 264.85,
-   "last_date": "2026-11-23",
+   "close": 266.75,
+   "last_date": "2026-11-25",
    "next_level": 242.3,
-   "dist_pct": 8.51,
+   "dist_pct": 9.17,
    "levels_below": [
     242.3,
     226.05,
@@ -6473,10 +6490,10 @@
   },
   {
    "symbol": "PREMIERENE",
-   "close": 809.85,
-   "last_date": "2026-11-23",
+   "close": 815.25,
+   "last_date": "2026-11-25",
    "next_level": 666.9,
-   "dist_pct": 17.65,
+   "dist_pct": 18.2,
    "levels_below": [
     666.9
    ],
@@ -6487,10 +6504,10 @@
   },
   {
    "symbol": "PRESTIGE",
-   "close": 1687.0,
-   "last_date": "2026-11-23",
+   "close": 1685.1,
+   "last_date": "2026-11-25",
    "next_level": 1363.6,
-   "dist_pct": 19.17,
+   "dist_pct": 19.08,
    "levels_below": [
     1363.6,
     1311.0,
@@ -6505,10 +6522,10 @@
   },
   {
    "symbol": "PFOCUS",
-   "close": 236.65,
-   "last_date": "2026-11-23",
+   "close": 239.35,
+   "last_date": "2026-11-25",
    "next_level": 202.54,
-   "dist_pct": 14.41,
+   "dist_pct": 15.38,
    "levels_below": [
     202.54,
     161.01,
@@ -6523,10 +6540,10 @@
   },
   {
    "symbol": "PRIVISCL",
-   "close": 3617.1,
-   "last_date": "2026-11-23",
+   "close": 3651.6,
+   "last_date": "2026-11-25",
    "next_level": 3154.0,
-   "dist_pct": 12.8,
+   "dist_pct": 13.63,
    "levels_below": [
     3154.0,
     3110.0,
@@ -6541,10 +6558,10 @@
   },
   {
    "symbol": "PNB",
-   "close": 149.75,
-   "last_date": "2026-11-23",
+   "close": 148.61,
+   "last_date": "2026-11-25",
    "next_level": 109.37,
-   "dist_pct": 26.96,
+   "dist_pct": 26.4,
    "levels_below": [
     109.37,
     100.45,
@@ -6559,10 +6576,10 @@
   },
   {
    "symbol": "RRKABEL",
-   "close": 1822.7,
-   "last_date": "2026-11-23",
+   "close": 1801.1,
+   "last_date": "2026-11-25",
    "next_level": 1281.3,
-   "dist_pct": 29.7,
+   "dist_pct": 28.86,
    "levels_below": [
     1281.3,
     1218.9,
@@ -6577,10 +6594,10 @@
   },
   {
    "symbol": "RBLBANK",
-   "close": 393.5,
-   "last_date": "2026-11-23",
+   "close": 390.45,
+   "last_date": "2026-11-25",
    "next_level": 338.55,
-   "dist_pct": 13.96,
+   "dist_pct": 13.29,
    "levels_below": [
     338.55,
     318.45,
@@ -6595,10 +6612,10 @@
   },
   {
    "symbol": "RECLTD",
-   "close": 292.95,
-   "last_date": "2026-11-23",
+   "close": 299.0,
+   "last_date": "2026-11-25",
    "next_level": 281.9,
-   "dist_pct": 3.77,
+   "dist_pct": 5.72,
    "levels_below": [
     281.9,
     259.45,
@@ -6613,10 +6630,10 @@
   },
   {
    "symbol": "RHIM",
-   "close": 354.5,
-   "last_date": "2026-11-23",
+   "close": 346.6,
+   "last_date": "2026-11-25",
    "next_level": 323.05,
-   "dist_pct": 8.87,
+   "dist_pct": 6.79,
    "levels_below": [
     323.05
    ],
@@ -6627,10 +6644,10 @@
   },
   {
    "symbol": "RITES",
-   "close": 185.95,
-   "last_date": "2026-11-23",
+   "close": 185.55,
+   "last_date": "2026-11-25",
    "next_level": 175.0,
-   "dist_pct": 5.89,
+   "dist_pct": 5.69,
    "levels_below": [
     175.0,
     171.15,
@@ -6641,14 +6658,14 @@
    "levels_above": [],
    "buys": 21,
    "invalid": 2,
-   "signal_today": true
+   "signal_today": false
   },
   {
    "symbol": "RADICO",
-   "close": 4636.5,
-   "last_date": "2026-11-23",
+   "close": 4699.0,
+   "last_date": "2026-11-25",
    "next_level": 4025.0,
-   "dist_pct": 13.19,
+   "dist_pct": 14.34,
    "levels_below": [
     4025.0,
     2552.4,
@@ -6663,8 +6680,8 @@
   },
   {
    "symbol": "RVNL",
-   "close": 185.1,
-   "last_date": "2026-11-23",
+   "close": 185.09,
+   "last_date": "2026-11-25",
    "next_level": 177.86,
    "dist_pct": 3.91,
    "levels_below": [
@@ -6681,10 +6698,10 @@
   },
   {
    "symbol": "RAILTEL",
-   "close": 245.55,
-   "last_date": "2026-11-23",
+   "close": 242.37,
+   "last_date": "2026-11-25",
    "next_level": 220.06,
-   "dist_pct": 10.38,
+   "dist_pct": 9.2,
    "levels_below": [
     220.06,
     202.5,
@@ -6699,10 +6716,10 @@
   },
   {
    "symbol": "RAINBOW",
-   "close": 1263.9,
-   "last_date": "2026-11-23",
+   "close": 1258.3,
+   "last_date": "2026-11-25",
    "next_level": 1151.9,
-   "dist_pct": 8.86,
+   "dist_pct": 8.46,
    "levels_below": [
     1151.9,
     1084.0,
@@ -6717,10 +6734,10 @@
   },
   {
    "symbol": "RKFORGE",
-   "close": 749.35,
-   "last_date": "2026-11-23",
+   "close": 745.75,
+   "last_date": "2026-11-25",
    "next_level": 571.1,
-   "dist_pct": 23.79,
+   "dist_pct": 23.42,
    "levels_below": [
     571.1,
     550.05,
@@ -6735,10 +6752,10 @@
   },
   {
    "symbol": "REDINGTON",
-   "close": 331.3,
-   "last_date": "2026-11-23",
+   "close": 324.75,
+   "last_date": "2026-11-25",
    "next_level": 315.0,
-   "dist_pct": 4.92,
+   "dist_pct": 3.0,
    "levels_below": [
     315.0,
     255.7,
@@ -6753,10 +6770,10 @@
   },
   {
    "symbol": "RELIANCE",
-   "close": 1351.0,
-   "last_date": "2026-11-23",
+   "close": 1373.9,
+   "last_date": "2026-11-25",
    "next_level": 1152.2,
-   "dist_pct": 14.72,
+   "dist_pct": 16.14,
    "levels_below": [
     1152.2,
     1114.85,
@@ -6770,10 +6787,10 @@
   },
   {
    "symbol": "RPOWER",
-   "close": 17.24,
-   "last_date": "2026-11-23",
+   "close": 17.13,
+   "last_date": "2026-11-25",
    "next_level": 15.98,
-   "dist_pct": 7.31,
+   "dist_pct": 6.71,
    "levels_below": [
     15.98,
     15.55,
@@ -6788,10 +6805,10 @@
   },
   {
    "symbol": "RUBICON",
-   "close": 1675.7,
-   "last_date": "2026-11-23",
+   "close": 1711.6,
+   "last_date": "2026-11-25",
    "next_level": 1390.5,
-   "dist_pct": 17.02,
+   "dist_pct": 18.76,
    "levels_below": [
     1390.5,
     918.0,
@@ -6806,10 +6823,10 @@
   },
   {
    "symbol": "SBICARD",
-   "close": 575.15,
-   "last_date": "2026-11-23",
+   "close": 589.0,
+   "last_date": "2026-11-25",
    "next_level": 519.05,
-   "dist_pct": 9.75,
+   "dist_pct": 11.88,
    "levels_below": [
     519.05
    ],
@@ -6820,10 +6837,10 @@
   },
   {
    "symbol": "SBILIFE",
-   "close": 1804.9,
-   "last_date": "2026-11-23",
+   "close": 1823.9,
+   "last_date": "2026-11-25",
    "next_level": 1607.7,
-   "dist_pct": 10.93,
+   "dist_pct": 11.85,
    "levels_below": [
     1607.7,
     1430.55,
@@ -6838,10 +6855,10 @@
   },
   {
    "symbol": "SJVN",
-   "close": 54.96,
-   "last_date": "2026-11-23",
+   "close": 55.45,
+   "last_date": "2026-11-25",
    "next_level": 46.08,
-   "dist_pct": 16.16,
+   "dist_pct": 16.9,
    "levels_below": [
     46.08,
     30.4,
@@ -6856,10 +6873,10 @@
   },
   {
    "symbol": "SHRIPISTON",
-   "close": 4262.4,
-   "last_date": "2026-11-23",
+   "close": 4249.0,
+   "last_date": "2026-11-25",
    "next_level": 4150.0,
-   "dist_pct": 2.64,
+   "dist_pct": 2.33,
    "levels_below": [
     4150.0,
     4090.0,
@@ -6870,14 +6887,14 @@
    "levels_above": [],
    "buys": 8,
    "invalid": 3,
-   "signal_today": true
+   "signal_today": false
   },
   {
    "symbol": "SRF",
-   "close": 2514.8,
-   "last_date": "2026-11-23",
+   "close": 2516.0,
+   "last_date": "2026-11-25",
    "next_level": 2178.3,
-   "dist_pct": 13.38,
+   "dist_pct": 13.42,
    "levels_below": [
     2178.3,
     2126.85,
@@ -6892,10 +6909,10 @@
   },
   {
    "symbol": "SAGILITY",
-   "close": 46.09,
-   "last_date": "2026-11-23",
+   "close": 45.87,
+   "last_date": "2026-11-25",
    "next_level": 41.75,
-   "dist_pct": 9.42,
+   "dist_pct": 8.98,
    "levels_below": [
     41.75,
     38.52,
@@ -6908,10 +6925,10 @@
   },
   {
    "symbol": "SAILIFE",
-   "close": 1809.1,
-   "last_date": "2026-11-23",
+   "close": 1799.3,
+   "last_date": "2026-11-25",
    "next_level": 1360.6,
-   "dist_pct": 24.79,
+   "dist_pct": 24.38,
    "levels_below": [
     1360.6,
     949.3,
@@ -6926,10 +6943,10 @@
   },
   {
    "symbol": "SAMMAANCAP",
-   "close": 125.71,
-   "last_date": "2026-11-23",
+   "close": 123.67,
+   "last_date": "2026-11-25",
    "next_level": 111.42,
-   "dist_pct": 11.37,
+   "dist_pct": 9.91,
    "levels_below": [
     111.42,
     110.58,
@@ -6944,10 +6961,10 @@
   },
   {
    "symbol": "MOTHERSON",
-   "close": 165.76,
-   "last_date": "2026-11-23",
+   "close": 166.26,
+   "last_date": "2026-11-25",
    "next_level": 147.27,
-   "dist_pct": 11.15,
+   "dist_pct": 11.42,
    "levels_below": [
     147.27,
     136.71,
@@ -6962,10 +6979,10 @@
   },
   {
    "symbol": "SANSERA",
-   "close": 4619.3,
-   "last_date": "2026-11-23",
+   "close": 4708.5,
+   "last_date": "2026-11-25",
    "next_level": 3869.2,
-   "dist_pct": 16.24,
+   "dist_pct": 17.83,
    "levels_below": [
     3869.2,
     3733.7,
@@ -6980,10 +6997,10 @@
   },
   {
    "symbol": "SARDAEN",
-   "close": 455.75,
-   "last_date": "2026-11-23",
+   "close": 476.75,
+   "last_date": "2026-11-25",
    "next_level": 424.05,
-   "dist_pct": 6.96,
+   "dist_pct": 11.05,
    "levels_below": [
     424.05,
     420.75,
@@ -6998,10 +7015,10 @@
   },
   {
    "symbol": "SCHAEFFLER",
-   "close": 3607.9,
-   "last_date": "2026-11-23",
+   "close": 3601.0,
+   "last_date": "2026-11-25",
    "next_level": 3420.0,
-   "dist_pct": 5.21,
+   "dist_pct": 5.03,
    "levels_below": [
     3420.0,
     2823.0,
@@ -7016,10 +7033,10 @@
   },
   {
    "symbol": "SCHNEIDER",
-   "close": 1008.8,
-   "last_date": "2026-11-23",
+   "close": 1017.5,
+   "last_date": "2026-11-25",
    "next_level": 832.95,
-   "dist_pct": 17.43,
+   "dist_pct": 18.14,
    "levels_below": [
     832.95,
     571.85,
@@ -7034,10 +7051,10 @@
   },
   {
    "symbol": "SCI",
-   "close": 255.59,
-   "last_date": "2026-11-23",
+   "close": 253.77,
+   "last_date": "2026-11-25",
    "next_level": 233.45,
-   "dist_pct": 8.66,
+   "dist_pct": 8.01,
    "levels_below": [
     233.45,
     217.55,
@@ -7052,10 +7069,10 @@
   },
   {
    "symbol": "SHREECEM",
-   "close": 25150.0,
-   "last_date": "2026-11-23",
+   "close": 25245.0,
+   "last_date": "2026-11-25",
    "next_level": 21355.0,
-   "dist_pct": 15.09,
+   "dist_pct": 15.41,
    "levels_below": [
     21355.0,
     20150.0,
@@ -7068,10 +7085,10 @@
   },
   {
    "symbol": "SHRIRAMFIN",
-   "close": 995.9,
-   "last_date": "2026-11-23",
+   "close": 989.95,
+   "last_date": "2026-11-25",
    "next_level": 810.1,
-   "dist_pct": 18.66,
+   "dist_pct": 18.17,
    "levels_below": [
     810.1,
     603.15,
@@ -7086,10 +7103,10 @@
   },
   {
    "symbol": "SHYAMMETL",
-   "close": 1276.2,
-   "last_date": "2026-11-23",
+   "close": 1292.1,
+   "last_date": "2026-11-25",
    "next_level": 1015.0,
-   "dist_pct": 20.47,
+   "dist_pct": 21.45,
    "levels_below": [
     1015.0,
     970.0,
@@ -7104,10 +7121,10 @@
   },
   {
    "symbol": "ENRIN",
-   "close": 2976.5,
-   "last_date": "2026-11-23",
+   "close": 2970.0,
+   "last_date": "2026-11-25",
    "next_level": 2627.0,
-   "dist_pct": 11.74,
+   "dist_pct": 11.55,
    "levels_below": [
     2627.0,
     2521.7,
@@ -7120,10 +7137,10 @@
   },
   {
    "symbol": "SIEMENS",
-   "close": 3578.1,
-   "last_date": "2026-11-23",
+   "close": 3581.1,
+   "last_date": "2026-11-25",
    "next_level": 3180.6,
-   "dist_pct": 11.11,
+   "dist_pct": 11.18,
    "levels_below": [
     3180.6,
     2906.0,
@@ -7138,10 +7155,10 @@
   },
   {
    "symbol": "SIGNATURE",
-   "close": 859.85,
-   "last_date": "2026-11-23",
+   "close": 847.1,
+   "last_date": "2026-11-25",
    "next_level": 695.0,
-   "dist_pct": 19.17,
+   "dist_pct": 17.96,
    "levels_below": [
     695.0
    ],
@@ -7152,10 +7169,10 @@
   },
   {
    "symbol": "SOBHA",
-   "close": 1251.1,
-   "last_date": "2026-11-23",
+   "close": 1244.4,
+   "last_date": "2026-11-25",
    "next_level": 1112.1,
-   "dist_pct": 11.11,
+   "dist_pct": 10.63,
    "levels_below": [
     1112.1,
     1075.3,
@@ -7170,10 +7187,10 @@
   },
   {
    "symbol": "SOLARINDS",
-   "close": 18178.0,
-   "last_date": "2026-11-23",
+   "close": 18088.0,
+   "last_date": "2026-11-25",
    "next_level": 17711.0,
-   "dist_pct": 2.57,
+   "dist_pct": 2.08,
    "levels_below": [
     17711.0,
     17028.0,
@@ -7188,10 +7205,10 @@
   },
   {
    "symbol": "SONACOMS",
-   "close": 886.0,
-   "last_date": "2026-11-23",
+   "close": 883.15,
+   "last_date": "2026-11-25",
    "next_level": 741.3,
-   "dist_pct": 16.33,
+   "dist_pct": 16.06,
    "levels_below": [
     741.3,
     582.1,
@@ -7206,10 +7223,10 @@
   },
   {
    "symbol": "STARHEALTH",
-   "close": 564.1,
-   "last_date": "2026-11-23",
+   "close": 568.95,
+   "last_date": "2026-11-25",
    "next_level": 502.6,
-   "dist_pct": 10.9,
+   "dist_pct": 11.66,
    "levels_below": [
     502.6,
     491.9,
@@ -7224,10 +7241,10 @@
   },
   {
    "symbol": "SBIN",
-   "close": 1132.65,
-   "last_date": "2026-11-23",
+   "close": 1138.15,
+   "last_date": "2026-11-25",
    "next_level": 937.5,
-   "dist_pct": 17.23,
+   "dist_pct": 17.63,
    "levels_below": [
     937.5,
     933.9,
@@ -7242,10 +7259,10 @@
   },
   {
    "symbol": "SAIL",
-   "close": 162.0,
-   "last_date": "2026-11-23",
+   "close": 161.1,
+   "last_date": "2026-11-25",
    "next_level": 159.0,
-   "dist_pct": 1.85,
+   "dist_pct": 1.3,
    "levels_below": [
     159.0,
     158.73,
@@ -7260,10 +7277,10 @@
   },
   {
    "symbol": "STLTECH",
-   "close": 590.8,
-   "last_date": "2026-11-23",
+   "close": 579.9,
+   "last_date": "2026-11-25",
    "next_level": 492.25,
-   "dist_pct": 16.68,
+   "dist_pct": 15.11,
    "levels_below": [
     492.25,
     84.6,
@@ -7276,10 +7293,10 @@
   },
   {
    "symbol": "SUMICHEM",
-   "close": 335.1,
-   "last_date": "2026-11-23",
+   "close": 330.5,
+   "last_date": "2026-11-25",
    "next_level": 310.85,
-   "dist_pct": 7.24,
+   "dist_pct": 5.95,
    "levels_below": [
     310.85
    ],
@@ -7290,10 +7307,10 @@
   },
   {
    "symbol": "SUNPHARMA",
-   "close": 1860.0,
-   "last_date": "2026-11-23",
+   "close": 1901.0,
+   "last_date": "2026-11-25",
    "next_level": 1719.1,
-   "dist_pct": 7.58,
+   "dist_pct": 9.57,
    "levels_below": [
     1719.1,
     1613.6,
@@ -7308,10 +7325,10 @@
   },
   {
    "symbol": "SUNTV",
-   "close": 678.8,
-   "last_date": "2026-11-23",
+   "close": 616.25,
+   "last_date": "2026-11-25",
    "next_level": 565.35,
-   "dist_pct": 16.71,
+   "dist_pct": 8.26,
    "levels_below": [
     565.35,
     447.2,
@@ -7326,10 +7343,10 @@
   },
   {
    "symbol": "SUNDARMFIN",
-   "close": 4295.7,
-   "last_date": "2026-11-23",
+   "close": 4317.5,
+   "last_date": "2026-11-25",
    "next_level": 3816.0,
-   "dist_pct": 11.17,
+   "dist_pct": 11.62,
    "levels_below": [
     3816.0,
     3732.9,
@@ -7344,10 +7361,10 @@
   },
   {
    "symbol": "SUPREMEIND",
-   "close": 3156.0,
-   "last_date": "2026-11-23",
+   "close": 3176.0,
+   "last_date": "2026-11-25",
    "next_level": 3078.5,
-   "dist_pct": 2.46,
+   "dist_pct": 3.07,
    "levels_below": [
     3078.5,
     2431.15,
@@ -7362,10 +7379,10 @@
   },
   {
    "symbol": "SUZLON",
-   "close": 35.86,
-   "last_date": "2026-11-23",
+   "close": 36.13,
+   "last_date": "2026-11-25",
    "next_level": 33.15,
-   "dist_pct": 7.56,
+   "dist_pct": 8.25,
    "levels_below": [
     33.15,
     21.7,
@@ -7380,10 +7397,10 @@
   },
   {
    "symbol": "SWANCORP",
-   "close": 229.81,
-   "last_date": "2026-11-23",
+   "close": 228.37,
+   "last_date": "2026-11-25",
    "next_level": 221.85,
-   "dist_pct": 3.46,
+   "dist_pct": 2.86,
    "levels_below": [
     221.85,
     214.25,
@@ -7398,10 +7415,10 @@
   },
   {
    "symbol": "SWIGGY",
-   "close": 176.97,
-   "last_date": "2026-11-23",
+   "close": 177.07,
+   "last_date": "2026-11-25",
    "next_level": 174.2,
-   "dist_pct": 1.57,
+   "dist_pct": 1.62,
    "levels_below": [
     174.2
    ],
@@ -7412,10 +7429,10 @@
   },
   {
    "symbol": "SYNGENE",
-   "close": 443.65,
-   "last_date": "2026-11-23",
+   "close": 451.75,
+   "last_date": "2026-11-25",
    "next_level": 344.45,
-   "dist_pct": 22.36,
+   "dist_pct": 23.75,
    "levels_below": [
     344.45
    ],
@@ -7426,10 +7443,10 @@
   },
   {
    "symbol": "SYRMA",
-   "close": 1491.1,
-   "last_date": "2026-11-23",
+   "close": 1434.0,
+   "last_date": "2026-11-25",
    "next_level": 1399.9,
-   "dist_pct": 6.12,
+   "dist_pct": 2.38,
    "levels_below": [
     1399.9,
     1392.6,
@@ -7444,10 +7461,10 @@
   },
   {
    "symbol": "TBOTEK",
-   "close": 1545.0,
-   "last_date": "2026-11-23",
+   "close": 1546.6,
+   "last_date": "2026-11-25",
    "next_level": 1480.6,
-   "dist_pct": 4.17,
+   "dist_pct": 4.27,
    "levels_below": [
     1480.6,
     1400.1,
@@ -7462,10 +7479,10 @@
   },
   {
    "symbol": "TDPOWERSYS",
-   "close": 605.3,
-   "last_date": "2026-11-23",
+   "close": 587.05,
+   "last_date": "2026-11-25",
    "next_level": 557.05,
-   "dist_pct": 7.97,
+   "dist_pct": 5.11,
    "levels_below": [
     557.05,
     465.0,
@@ -7480,10 +7497,10 @@
   },
   {
    "symbol": "TVSMOTOR",
-   "close": 4528.2,
-   "last_date": "2026-11-23",
+   "close": 4610.0,
+   "last_date": "2026-11-25",
    "next_level": 3741.9,
-   "dist_pct": 17.36,
+   "dist_pct": 18.83,
    "levels_below": [
     3741.9,
     3265.6,
@@ -7498,10 +7515,10 @@
   },
   {
    "symbol": "TATACAP",
-   "close": 343.05,
-   "last_date": "2026-11-23",
+   "close": 351.6,
+   "last_date": "2026-11-25",
    "next_level": 297.35,
-   "dist_pct": 13.32,
+   "dist_pct": 15.43,
    "levels_below": [
     297.35,
     296.0
@@ -7513,10 +7530,10 @@
   },
   {
    "symbol": "TATACHEM",
-   "close": 652.05,
-   "last_date": "2026-11-23",
+   "close": 663.1,
+   "last_date": "2026-11-25",
    "next_level": 570.05,
-   "dist_pct": 12.58,
+   "dist_pct": 14.03,
    "levels_below": [
     570.05
    ],
@@ -7527,10 +7544,10 @@
   },
   {
    "symbol": "TATACOMM",
-   "close": 1723.6,
-   "last_date": "2026-11-23",
+   "close": 1712.4,
+   "last_date": "2026-11-25",
    "next_level": 1605.1,
-   "dist_pct": 6.88,
+   "dist_pct": 6.27,
    "levels_below": [
     1605.1,
     1322.5,
@@ -7545,10 +7562,10 @@
   },
   {
    "symbol": "TCS",
-   "close": 2460.0,
-   "last_date": "2026-11-23",
+   "close": 2517.3,
+   "last_date": "2026-11-25",
    "next_level": 2032.4,
-   "dist_pct": 17.38,
+   "dist_pct": 19.26,
    "levels_below": [
     2032.4,
     1976.8
@@ -7560,10 +7577,10 @@
   },
   {
    "symbol": "TATACONSUM",
-   "close": 1133.0,
-   "last_date": "2026-11-23",
+   "close": 1185.8,
+   "last_date": "2026-11-25",
    "next_level": 916.0,
-   "dist_pct": 19.15,
+   "dist_pct": 22.75,
    "levels_below": [
     916.0,
     882.9,
@@ -7578,10 +7595,10 @@
   },
   {
    "symbol": "TATAELXSI",
-   "close": 3822.4,
-   "last_date": "2026-11-23",
+   "close": 3819.4,
+   "last_date": "2026-11-25",
    "next_level": 2996.0,
-   "dist_pct": 21.62,
+   "dist_pct": 21.56,
    "levels_below": [
     2996.0
    ],
@@ -7592,10 +7609,10 @@
   },
   {
    "symbol": "TATAINVEST",
-   "close": 586.95,
-   "last_date": "2026-11-23",
+   "close": 582.2,
+   "last_date": "2026-11-25",
    "next_level": 541.05,
-   "dist_pct": 7.82,
+   "dist_pct": 7.07,
    "levels_below": [
     541.05,
     538.85,
@@ -7610,10 +7627,10 @@
   },
   {
    "symbol": "TMCV",
-   "close": 453.8,
-   "last_date": "2026-11-23",
+   "close": 442.0,
+   "last_date": "2026-11-25",
    "next_level": 379.25,
-   "dist_pct": 16.43,
+   "dist_pct": 14.2,
    "levels_below": [
     379.25,
     357.05
@@ -7625,8 +7642,8 @@
   },
   {
    "symbol": "TMPV",
-   "close": 259.0,
-   "last_date": "2026-11-23",
+   "close": 262.1,
+   "last_date": "2026-11-25",
    "next_level": null,
    "dist_pct": null,
    "levels_below": [],
@@ -7637,12 +7654,11 @@
   },
   {
    "symbol": "TATAPOWER",
-   "close": 328.0,
-   "last_date": "2026-11-23",
-   "next_level": 326.35,
-   "dist_pct": 0.5,
+   "close": 323.0,
+   "last_date": "2026-11-25",
+   "next_level": 230.8,
+   "dist_pct": 28.54,
    "levels_below": [
-    326.35,
     230.8,
     228.05,
     216.75,
@@ -7651,34 +7667,34 @@
    "levels_above": [
     388.0
    ],
-   "buys": 22,
+   "buys": 23,
    "invalid": 4,
    "signal_today": true
   },
   {
    "symbol": "TATASTEEL",
-   "close": 163.0,
-   "last_date": "2026-11-23",
-   "next_level": 160.06,
-   "dist_pct": 1.8,
+   "close": 159.3,
+   "last_date": "2026-11-25",
+   "next_level": 153.05,
+   "dist_pct": 3.92,
    "levels_below": [
-    160.06,
     153.05,
     152.51,
     149.8,
-    125.3
+    125.3,
+    122.62
    ],
    "levels_above": [],
-   "buys": 14,
+   "buys": 15,
    "invalid": 1,
    "signal_today": true
   },
   {
    "symbol": "TATATECH",
-   "close": 707.9,
-   "last_date": "2026-11-23",
+   "close": 692.35,
+   "last_date": "2026-11-25",
    "next_level": 641.5,
-   "dist_pct": 9.38,
+   "dist_pct": 7.34,
    "levels_below": [
     641.5,
     507.4
@@ -7690,10 +7706,10 @@
   },
   {
    "symbol": "TTML",
-   "close": 34.7,
-   "last_date": "2026-11-23",
+   "close": 33.52,
+   "last_date": "2026-11-25",
    "next_level": 31.65,
-   "dist_pct": 8.79,
+   "dist_pct": 5.58,
    "levels_below": [
     31.65,
     31.22
@@ -7705,10 +7721,10 @@
   },
   {
    "symbol": "TECHM",
-   "close": 1777.5,
-   "last_date": "2026-11-23",
+   "close": 1801.2,
+   "last_date": "2026-11-25",
    "next_level": 1442.5,
-   "dist_pct": 18.85,
+   "dist_pct": 19.91,
    "levels_below": [
     1442.5,
     1344.0,
@@ -7723,10 +7739,10 @@
   },
   {
    "symbol": "TECHNOE",
-   "close": 910.45,
-   "last_date": "2026-11-23",
+   "close": 904.0,
+   "last_date": "2026-11-25",
    "next_level": 802.0,
-   "dist_pct": 11.91,
+   "dist_pct": 11.28,
    "levels_below": [
     802.0,
     785.15,
@@ -7741,10 +7757,10 @@
   },
   {
    "symbol": "TEGA",
-   "close": 1539.6,
-   "last_date": "2026-11-23",
+   "close": 1533.4,
+   "last_date": "2026-11-25",
    "next_level": 1473.0,
-   "dist_pct": 4.33,
+   "dist_pct": 3.94,
    "levels_below": [
     1473.0,
     1467.0,
@@ -7755,14 +7771,14 @@
    "levels_above": [],
    "buys": 13,
    "invalid": 1,
-   "signal_today": true
+   "signal_today": false
   },
   {
    "symbol": "TEJASNET",
-   "close": 400.35,
-   "last_date": "2026-11-23",
+   "close": 403.45,
+   "last_date": "2026-11-25",
    "next_level": 396.25,
-   "dist_pct": 1.02,
+   "dist_pct": 1.78,
    "levels_below": [
     396.25,
     382.25,
@@ -7776,10 +7792,10 @@
   },
   {
    "symbol": "TENNIND",
-   "close": 440.45,
-   "last_date": "2026-11-23",
+   "close": 445.9,
+   "last_date": "2026-11-25",
    "next_level": 419.1,
-   "dist_pct": 4.85,
+   "dist_pct": 6.01,
    "levels_below": [
     419.1
    ],
@@ -7790,10 +7806,10 @@
   },
   {
    "symbol": "THANGAMAYL",
-   "close": 3772.0,
-   "last_date": "2026-11-23",
+   "close": 3842.6,
+   "last_date": "2026-11-25",
    "next_level": 3433.3,
-   "dist_pct": 8.98,
+   "dist_pct": 10.65,
    "levels_below": [
     3433.3,
     3120.4,
@@ -7808,10 +7824,10 @@
   },
   {
    "symbol": "NIACL",
-   "close": 149.34,
-   "last_date": "2026-11-23",
+   "close": 149.36,
+   "last_date": "2026-11-25",
    "next_level": 145.18,
-   "dist_pct": 2.79,
+   "dist_pct": 2.8,
    "levels_below": [
     145.18,
     116.97,
@@ -7826,10 +7842,10 @@
   },
   {
    "symbol": "RAMCOCEM",
-   "close": 814.8,
-   "last_date": "2026-11-23",
+   "close": 832.5,
+   "last_date": "2026-11-25",
    "next_level": 711.3,
-   "dist_pct": 12.7,
+   "dist_pct": 14.56,
    "levels_below": [
     711.3,
     700.0,
@@ -7844,10 +7860,10 @@
   },
   {
    "symbol": "THERMAX",
-   "close": 2705.5,
-   "last_date": "2026-11-23",
+   "close": 2663.4,
+   "last_date": "2026-11-25",
    "next_level": 2500.25,
-   "dist_pct": 7.59,
+   "dist_pct": 6.13,
    "levels_below": [
     2500.25,
     2191.85,
@@ -7862,10 +7878,10 @@
   },
   {
    "symbol": "TIMKEN",
-   "close": 3073.6,
-   "last_date": "2026-11-23",
+   "close": 3081.7,
+   "last_date": "2026-11-25",
    "next_level": 2687.9,
-   "dist_pct": 12.55,
+   "dist_pct": 12.78,
    "levels_below": [
     2687.9,
     2431.0,
@@ -7879,10 +7895,10 @@
   },
   {
    "symbol": "TITAGARH",
-   "close": 717.6,
-   "last_date": "2026-11-23",
+   "close": 745.0,
+   "last_date": "2026-11-25",
    "next_level": 637.5,
-   "dist_pct": 11.16,
+   "dist_pct": 14.43,
    "levels_below": [
     637.5,
     568.7,
@@ -7897,10 +7913,10 @@
   },
   {
    "symbol": "TITAN",
-   "close": 4680.0,
-   "last_date": "2026-11-23",
+   "close": 4686.6,
+   "last_date": "2026-11-25",
    "next_level": 4209.0,
-   "dist_pct": 10.06,
+   "dist_pct": 10.19,
    "levels_below": [
     4209.0,
     3962.8,
@@ -7915,10 +7931,10 @@
   },
   {
    "symbol": "TORNTPHARM",
-   "close": 4763.7,
-   "last_date": "2026-11-23",
+   "close": 4895.5,
+   "last_date": "2026-11-25",
    "next_level": 4466.8,
-   "dist_pct": 6.23,
+   "dist_pct": 8.76,
    "levels_below": [
     4466.8,
     4240.3,
@@ -7933,10 +7949,10 @@
   },
   {
    "symbol": "TORNTPOWER",
-   "close": 1198.4,
-   "last_date": "2026-11-23",
+   "close": 1162.8,
+   "last_date": "2026-11-25",
    "next_level": 1147.5,
-   "dist_pct": 4.25,
+   "dist_pct": 1.32,
    "levels_below": [
     1147.5,
     971.0,
@@ -7951,10 +7967,10 @@
   },
   {
    "symbol": "TARIL",
-   "close": 289.45,
-   "last_date": "2026-11-23",
+   "close": 287.95,
+   "last_date": "2026-11-25",
    "next_level": 266.6,
-   "dist_pct": 7.89,
+   "dist_pct": 7.41,
    "levels_below": [
     266.6,
     253.0,
@@ -7969,10 +7985,10 @@
   },
   {
    "symbol": "TRENT",
-   "close": 3208.0,
-   "last_date": "2026-11-23",
+   "close": 3319.6,
+   "last_date": "2026-11-25",
    "next_level": 2545.8,
-   "dist_pct": 20.64,
+   "dist_pct": 23.31,
    "levels_below": [
     2545.8,
     2183.67,
@@ -7987,10 +8003,10 @@
   },
   {
    "symbol": "TRIDENT",
-   "close": 23.17,
-   "last_date": "2026-11-23",
+   "close": 22.9,
+   "last_date": "2026-11-25",
    "next_level": 20.15,
-   "dist_pct": 13.03,
+   "dist_pct": 12.01,
    "levels_below": [
     20.15
    ],
@@ -8001,10 +8017,10 @@
   },
   {
    "symbol": "TRITURBINE",
-   "close": 454.75,
-   "last_date": "2026-11-23",
+   "close": 447.8,
+   "last_date": "2026-11-25",
    "next_level": 432.85,
-   "dist_pct": 4.82,
+   "dist_pct": 3.34,
    "levels_below": [
     432.85,
     428.35,
@@ -8019,10 +8035,10 @@
   },
   {
    "symbol": "TIINDIA",
-   "close": 2210.0,
-   "last_date": "2026-11-23",
+   "close": 2217.7,
+   "last_date": "2026-11-25",
    "next_level": 2005.2,
-   "dist_pct": 9.27,
+   "dist_pct": 9.58,
    "levels_below": [
     2005.2,
     1981.0,
@@ -8036,10 +8052,10 @@
   },
   {
    "symbol": "UCOBANK",
-   "close": 24.74,
-   "last_date": "2026-11-23",
+   "close": 24.65,
+   "last_date": "2026-11-25",
    "next_level": 21.34,
-   "dist_pct": 13.74,
+   "dist_pct": 13.43,
    "levels_below": [
     21.34,
     11.5,
@@ -8053,10 +8069,10 @@
   },
   {
    "symbol": "UNOMINDA",
-   "close": 1356.9,
-   "last_date": "2026-11-23",
+   "close": 1375.0,
+   "last_date": "2026-11-25",
    "next_level": 1030.0,
-   "dist_pct": 24.09,
+   "dist_pct": 25.09,
    "levels_below": [
     1030.0,
     1007.5,
@@ -8071,10 +8087,10 @@
   },
   {
    "symbol": "UPL",
-   "close": 557.7,
-   "last_date": "2026-11-23",
+   "close": 554.45,
+   "last_date": "2026-11-25",
    "next_level": 476.45,
-   "dist_pct": 14.57,
+   "dist_pct": 14.07,
    "levels_below": [
     476.45,
     464.35,
@@ -8087,10 +8103,10 @@
   },
   {
    "symbol": "UTIAMC",
-   "close": 834.75,
-   "last_date": "2026-11-23",
+   "close": 842.15,
+   "last_date": "2026-11-25",
    "next_level": 781.8,
-   "dist_pct": 6.34,
+   "dist_pct": 7.17,
    "levels_below": [
     781.8,
     741.0,
@@ -8105,10 +8121,10 @@
   },
   {
    "symbol": "ULTRACEMCO",
-   "close": 12650.0,
-   "last_date": "2026-11-23",
+   "close": 12800.0,
+   "last_date": "2026-11-25",
    "next_level": 10426.0,
-   "dist_pct": 17.58,
+   "dist_pct": 18.55,
    "levels_below": [
     10426.0,
     10325.0,
@@ -8123,10 +8139,10 @@
   },
   {
    "symbol": "UNIONBANK",
-   "close": 208.2,
-   "last_date": "2026-11-23",
+   "close": 213.5,
+   "last_date": "2026-11-25",
    "next_level": 164.81,
-   "dist_pct": 20.84,
+   "dist_pct": 22.81,
    "levels_below": [
     164.81,
     153.5,
@@ -8141,10 +8157,10 @@
   },
   {
    "symbol": "UBL",
-   "close": 1254.3,
-   "last_date": "2026-11-23",
+   "close": 1274.5,
+   "last_date": "2026-11-25",
    "next_level": 1128.6,
-   "dist_pct": 10.02,
+   "dist_pct": 11.45,
    "levels_below": [
     1128.6
    ],
@@ -8155,10 +8171,10 @@
   },
   {
    "symbol": "UNITDSPR",
-   "close": 1478.0,
-   "last_date": "2026-11-23",
+   "close": 1514.3,
+   "last_date": "2026-11-25",
    "next_level": 1217.5,
-   "dist_pct": 17.63,
+   "dist_pct": 19.6,
    "levels_below": [
     1217.5,
     1210.8,
@@ -8173,10 +8189,10 @@
   },
   {
    "symbol": "URBANCO",
-   "close": 168.68,
-   "last_date": "2026-11-23",
+   "close": 164.85,
+   "last_date": "2026-11-25",
    "next_level": 126.51,
-   "dist_pct": 25.0,
+   "dist_pct": 23.26,
    "levels_below": [
     126.51,
     117.93,
@@ -8190,10 +8206,10 @@
   },
   {
    "symbol": "USHAMART",
-   "close": 453.95,
-   "last_date": "2026-11-23",
+   "close": 449.1,
+   "last_date": "2026-11-25",
    "next_level": 442.3,
-   "dist_pct": 2.57,
+   "dist_pct": 1.51,
    "levels_below": [
     442.3,
     380.0,
@@ -8208,10 +8224,10 @@
   },
   {
    "symbol": "VTL",
-   "close": 523.9,
-   "last_date": "2026-11-23",
+   "close": 512.55,
+   "last_date": "2026-11-25",
    "next_level": 482.05,
-   "dist_pct": 7.99,
+   "dist_pct": 5.95,
    "levels_below": [
     482.05,
     391.0,
@@ -8226,10 +8242,10 @@
   },
   {
    "symbol": "VBL",
-   "close": 427.15,
-   "last_date": "2026-11-23",
+   "close": 437.1,
+   "last_date": "2026-11-25",
    "next_level": 385.8,
-   "dist_pct": 9.68,
+   "dist_pct": 11.74,
    "levels_below": [
     385.8,
     381.0,
@@ -8244,10 +8260,10 @@
   },
   {
    "symbol": "VAML",
-   "close": 361.9,
-   "last_date": "2026-11-23",
+   "close": 351.15,
+   "last_date": "2026-11-25",
    "next_level": 334.0,
-   "dist_pct": 7.71,
+   "dist_pct": 4.88,
    "levels_below": [
     334.0
    ],
@@ -8258,8 +8274,8 @@
   },
   {
    "symbol": "VISL",
-   "close": 23.3,
-   "last_date": "2026-11-23",
+   "close": 23.19,
+   "last_date": "2026-11-25",
    "next_level": null,
    "dist_pct": null,
    "levels_below": [],
@@ -8270,10 +8286,10 @@
   },
   {
    "symbol": "VEDL",
-   "close": 235.53,
-   "last_date": "2026-11-23",
+   "close": 232.8,
+   "last_date": "2026-11-25",
    "next_level": 221.6,
-   "dist_pct": 5.91,
+   "dist_pct": 4.81,
    "levels_below": [
     221.6,
     211.2,
@@ -8287,10 +8303,10 @@
   },
   {
    "symbol": "VOGL",
-   "close": 28.84,
-   "last_date": "2026-11-23",
+   "close": 28.7,
+   "last_date": "2026-11-25",
    "next_level": 26.41,
-   "dist_pct": 8.43,
+   "dist_pct": 7.98,
    "levels_below": [
     26.41
    ],
@@ -8301,10 +8317,10 @@
   },
   {
    "symbol": "VEDPOWER",
-   "close": 33.53,
-   "last_date": "2026-11-23",
+   "close": 34.3,
+   "last_date": "2026-11-25",
    "next_level": 27.5,
-   "dist_pct": 17.98,
+   "dist_pct": 19.83,
    "levels_below": [
     27.5
    ],
@@ -8315,10 +8331,10 @@
   },
   {
    "symbol": "VIJAYA",
-   "close": 1572.6,
-   "last_date": "2026-11-23",
+   "close": 1627.7,
+   "last_date": "2026-11-25",
    "next_level": 1335.0,
-   "dist_pct": 15.11,
+   "dist_pct": 17.98,
    "levels_below": [
     1335.0,
     1291.0,
@@ -8333,10 +8349,10 @@
   },
   {
    "symbol": "VMM",
-   "close": 94.5,
-   "last_date": "2026-11-23",
+   "close": 94.8,
+   "last_date": "2026-11-25",
    "next_level": 84.16,
-   "dist_pct": 10.94,
+   "dist_pct": 11.22,
    "levels_below": [
     84.16
    ],
@@ -8347,10 +8363,10 @@
   },
   {
    "symbol": "IDEA",
-   "close": 11.91,
-   "last_date": "2026-11-23",
+   "close": 11.69,
+   "last_date": "2026-11-25",
    "next_level": 11.03,
-   "dist_pct": 7.39,
+   "dist_pct": 5.65,
    "levels_below": [
     11.03,
     8.13,
@@ -8364,10 +8380,10 @@
   },
   {
    "symbol": "VOLTAS",
-   "close": 1218.5,
-   "last_date": "2026-11-23",
+   "close": 1232.4,
+   "last_date": "2026-11-25",
    "next_level": 930.5,
-   "dist_pct": 23.64,
+   "dist_pct": 24.5,
    "levels_below": [
     930.5,
     811.15,
@@ -8382,10 +8398,10 @@
   },
   {
    "symbol": "WAAREEENER",
-   "close": 2390.0,
-   "last_date": "2026-11-23",
+   "close": 2379.9,
+   "last_date": "2026-11-25",
    "next_level": 2161.5,
-   "dist_pct": 9.56,
+   "dist_pct": 9.18,
    "levels_below": [
     2161.5,
     1863.0
@@ -8397,10 +8413,10 @@
   },
   {
    "symbol": "WELCORP",
-   "close": 2152.8,
-   "last_date": "2026-11-23",
+   "close": 2117.5,
+   "last_date": "2026-11-25",
    "next_level": 759.0,
-   "dist_pct": 64.74,
+   "dist_pct": 64.16,
    "levels_below": [
     759.0,
     710.0,
@@ -8415,10 +8431,10 @@
   },
   {
    "symbol": "WELSPUNLIV",
-   "close": 270.76,
-   "last_date": "2026-11-23",
+   "close": 276.57,
+   "last_date": "2026-11-25",
    "next_level": 204.75,
-   "dist_pct": 24.38,
+   "dist_pct": 25.97,
    "levels_below": [
     204.75,
     152.98,
@@ -8433,10 +8449,10 @@
   },
   {
    "symbol": "WHIRLPOOL",
-   "close": 808.6,
-   "last_date": "2026-11-23",
+   "close": 791.1,
+   "last_date": "2026-11-25",
    "next_level": 774.05,
-   "dist_pct": 4.27,
+   "dist_pct": 2.16,
    "levels_below": [
     774.05,
     706.0
@@ -8448,10 +8464,10 @@
   },
   {
    "symbol": "WIPRO",
-   "close": 187.29,
-   "last_date": "2026-11-23",
+   "close": 189.05,
+   "last_date": "2026-11-25",
    "next_level": 156.79,
-   "dist_pct": 16.28,
+   "dist_pct": 17.06,
    "levels_below": [
     156.79
    ],
@@ -8462,10 +8478,10 @@
   },
   {
    "symbol": "WOCKPHARMA",
-   "close": 2152.3,
-   "last_date": "2026-11-23",
+   "close": 2078.0,
+   "last_date": "2026-11-25",
    "next_level": 1772.0,
-   "dist_pct": 17.67,
+   "dist_pct": 14.73,
    "levels_below": [
     1772.0,
     1086.7,
@@ -8480,10 +8496,10 @@
   },
   {
    "symbol": "YESBANK",
-   "close": 17.73,
-   "last_date": "2026-11-23",
+   "close": 17.71,
+   "last_date": "2026-11-25",
    "next_level": 15.1,
-   "dist_pct": 14.83,
+   "dist_pct": 14.74,
    "levels_below": [
     15.1,
     14.4,
@@ -8497,10 +8513,10 @@
   },
   {
    "symbol": "ZFCVINDIA",
-   "close": 2159.6,
-   "last_date": "2026-11-23",
+   "close": 2119.8,
+   "last_date": "2026-11-25",
    "next_level": 2053.0,
-   "dist_pct": 4.94,
+   "dist_pct": 3.15,
    "levels_below": [
     2053.0,
     2050.33,
@@ -8515,10 +8531,10 @@
   },
   {
    "symbol": "ZEEL",
-   "close": 71.64,
-   "last_date": "2026-11-23",
+   "close": 67.21,
+   "last_date": "2026-11-25",
    "next_level": 60.6,
-   "dist_pct": 15.41,
+   "dist_pct": 9.83,
    "levels_below": [
     60.6
    ],
@@ -8529,10 +8545,10 @@
   },
   {
    "symbol": "ZENTEC",
-   "close": 1694.6,
-   "last_date": "2026-11-23",
+   "close": 1715.0,
+   "last_date": "2026-11-25",
    "next_level": 1463.0,
-   "dist_pct": 13.67,
+   "dist_pct": 14.69,
    "levels_below": [
     1463.0,
     1265.0,
@@ -8547,10 +8563,10 @@
   },
   {
    "symbol": "ZENSARTECH",
-   "close": 529.6,
-   "last_date": "2026-11-23",
+   "close": 533.0,
+   "last_date": "2026-11-25",
    "next_level": 416.15,
-   "dist_pct": 21.42,
+   "dist_pct": 21.92,
    "levels_below": [
     416.15,
     376.0,
@@ -8565,10 +8581,10 @@
   },
   {
    "symbol": "ZYDUSLIFE",
-   "close": 1199.5,
-   "last_date": "2026-11-23",
+   "close": 1236.0,
+   "last_date": "2026-11-25",
    "next_level": 1093.5,
-   "dist_pct": 8.84,
+   "dist_pct": 11.53,
    "levels_below": [
     1093.5,
     1086.0,
@@ -8583,10 +8599,10 @@
   },
   {
    "symbol": "ZYDUSWELL",
-   "close": 465.85,
-   "last_date": "2026-11-23",
+   "close": 462.65,
+   "last_date": "2026-11-25",
    "next_level": 367.55,
-   "dist_pct": 21.1,
+   "dist_pct": 20.56,
    "levels_below": [
     367.55,
     331.0,
@@ -8601,10 +8617,10 @@
   },
   {
    "symbol": "ECLERX",
-   "close": 1511.4,
-   "last_date": "2026-11-23",
+   "close": 1465.8,
+   "last_date": "2026-11-25",
    "next_level": 1320.0,
-   "dist_pct": 12.66,
+   "dist_pct": 9.95,
    "levels_below": [
     1320.0,
     1176.65,
